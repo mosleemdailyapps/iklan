@@ -1,0 +1,179 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "cak nun",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
+    {
+        "id": 1,
+        "name_category": "cak nun",
+        "title": "Antara Tahlilan Yasinan Musyrik",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Antara%20Tahlilan%20Yasinan%20Musyrik.mp3"
+    },
+    {
+        "id": 2,
+        "name_category": "cak nun",
+        "title": "Andai Tak Ada Agama Mampukah Manusia Hidup Damai",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Andai%20Tak%20Ada%20Agama%20Mampukah%20Manusia%20Hidup%20Damai.mp3"
+    },
+    {
+        "id": 3,
+        "name_category": "cak nun",
+        "title": "Bedanya Rosul Muhammad Dan Nabi Muhammad",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Bedanya%20Rosul%20Muhammad%20Dan%20Nabi%20Muhammad.mp3"
+    },
+    {
+        "id": 4,
+        "name_category": "cak nun",
+        "title": "Cara Mengerti Asal Usul Diri Siapa Tuhan",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Cara%20Mengerti%20Asal%20Usul%20Diri%20%26%20Siapa%20Tuhan.mp3"
+    },
+    {
+        "id": 5,
+        "name_category": "cak nun",
+        "title": "Hakikat Surat Alam Nasrah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Hakikat%20Surat%20Alam%20Nasrah.mp3"
+    },
+    {
+        "id": 6,
+        "name_category": "cak nun",
+        "title": "Ibadah Bukan Sebagai Kedok",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Ibadah%20Bukan%20Sebagai%20Kedok.mp3"
+    },
+    {
+        "id": 7,
+        "name_category": "cak nun",
+        "title": "Islam Bukan Arab Arab Tidak Mesti Islam",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Islam%20Bukan%20Arab%2C%20Arab%20Tidak%20Mesti%20Islam.mp3"
+    },
+    {
+        "id": 8,
+        "name_category": "cak nun",
+        "title": "Jangan Kaget Kalau Nabi Itu Keturunan Jawa",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Jangan%20Kaget%20Kalau%20Nabi%20Itu%20Keturunan%20Jawa.mp3"
+    },
+    {
+        "id": 9,
+        "name_category": "cak nun",
+        "title": "Ketika Allah Jatuh Cinta",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Ketika%20Allah%20Jatuh%20Cinta.mp3"
+    },
+    {
+        "id": 10,
+        "name_category": "cak nun",
+        "title": "Manusia Adalah Wujud Allah Yang Terlihat",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Manusia%20Adalah%20Wujud%20Allah%20Yang%20Terlihat.mp3"
+    },
+    {
+        "id": 11,
+        "name_category": "cak nun",
+        "title": "Materialisme",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Materialisme.mp3"
+    },
+    {
+        "id": 12,
+        "name_category": "cak nun",
+        "title": "Tidak Semua Harus Mutiara",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Tidak%20Semua%20Harus%20Mutiara.mp3"
+    },
+    {
+        "id": 13,
+        "name_category": "cak nun",
+        "title": "Nasehat Yang Terbaik Adalah Mati",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Nasehat%20Yang%20Terbaik%20Adalah%20Mati.mp3"
+    },
+    {
+        "id": 14,
+        "name_category": "cak nun",
+        "title": "Pemimpin Kafir Yang Adil vs Pemimpin Muslim Yang Dholim",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Pemimpin%20Kafir%20Yang%20Adil%20vs%20Pemimpin%20Muslim%20Yang%20Dholim.mp3"
+    },
+    {
+        "id": 15,
+        "name_category": "cak nun",
+        "title": "Semua Dari Allah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Semua%20Dari%20Allah.mp3"
+    },
+    {
+        "id": 16,
+        "name_category": "cak nun",
+        "title": "Semua Milik Tuhan Kok Repot",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Semua%20Milik%20Tuhan%2C%20Kok%20Repot.mp3"
+    },
+    {
+        "id": 17,
+        "name_category": "cak nun",
+        "title": "Sholat",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Sholat.mp3"
+    },
+    {
+        "id": 18,
+        "name_category": "cak nun",
+        "title": "Surga Itu Tidak Penting",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Surga%20Itu%20Tidak%20Penting.mp3"
+    },
+    {
+        "id": 19,
+        "name_category": "cak nun",
+        "title": "Tentang Keberadaan Allah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Tentang%20Keberadaan%20Allah.mp3"
+    },
+    {
+        "id": 20,
+        "name_category": "cak nun",
+        "title": "Tidak Semua Harus Mutiara",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904702.us.archive.org/12/items/MP3CeramahEmhaAinunNajib/Tidak%20Semua%20Harus%20Mutiara.mp3"
+    }
+]
+}
