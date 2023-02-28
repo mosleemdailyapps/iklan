@@ -1,0 +1,172 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "dzikir pagi",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
+    {
+        "id": 1,
+        "name_category": "dzikir pagi",
+        "title": "Al Mulk",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia902509.us.archive.org/20/items/surah-al-an-am-jiharkah-muzammil-hasballah_202204/Muzammil%20Hasballah%20Surat%20Al%20Mulk.mp3"
+    },
+    {
+        "id": 2,
+        "name_category": "dzikir pagi",
+        "title": "Ar Rahman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802509.us.archive.org/20/items/surah-al-an-am-jiharkah-muzammil-hasballah_202204/Muzammil%20Hasballah%20Terbaru%20Surat%20Ar%20Rahman.mp3"
+    },
+    {
+        "id": 3,
+        "name_category": "dzikir pagi",
+        "title": "Al Falaq",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlFalaq.mp3"
+    },
+    {
+        "id": 4,
+        "name_category": "dzikir pagi",
+        "title": "An Nas",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AnNas.mp3"
+    },
+    {
+        "id": 5,
+        "name_category": "dzikir pagi",
+        "title": "Al Asr",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlAsr.mp3"
+    },
+    {
+        "id": 6,
+        "name_category": "dzikir pagi",
+        "title": "Yaseen",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/Yaseen.mp3"
+    },
+    {
+        "id": 7,
+        "name_category": "dzikir pagi",
+        "title": "Al Humazah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlHumazah.mp3"
+    },
+    {
+        "id": 8,
+        "name_category": "dzikir pagi",
+        "title": "Al Kafirun",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlKafirun.mp3"
+    },
+    {
+        "id": 9,
+        "name_category": "dzikir pagi",
+        "title": "Al Lahab",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlLahab.mp3"
+    },
+    {
+        "id": 10,
+        "name_category": "dzikir pagi",
+        "title": "At Tin",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AtTin.mp3"
+    },
+    {
+        "id": 11,
+        "name_category": "dzikir pagi",
+        "title": "At Takasur",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AtTakasur.mp3"
+    },
+    {
+        "id": 12,
+        "name_category": "dzikir pagi",
+        "title": "Quraysh",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/Quraysh.mp3"
+    },
+    {
+        "id": 13,
+        "name_category": "dzikir pagi",
+        "title": "Al Ala",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlAla.mp3"
+    },
+    {
+        "id": 14,
+        "name_category": "dzikir pagi",
+        "title": "Ash Insyirah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AshInsyirah.mp3"
+    },
+    {
+        "id": 15,
+        "name_category": "dzikir pagi",
+        "title": "Ash Shams",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AshShams.mp3"
+    },
+    {
+        "id": 16,
+        "name_category": "dzikir pagi",
+        "title": "Ad Dhuha",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AdDhuha.mp3"
+    },
+    {
+        "id": 17,
+        "name_category": "dzikir pagi",
+        "title": "Al Kafirun",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlKafirun.mp3"
+    },
+    {
+        "id": 18,
+        "name_category": "dzikir pagi",
+        "title": "Al Fajr",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlFajr.mp3"
+    },
+    {
+        "id": 19,
+        "name_category": "dzikir pagi",
+        "title": "An Naba",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AnNaba.mp3"
+    }
+]
+}
