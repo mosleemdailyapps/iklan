@@ -1,0 +1,186 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ceramah adi hidayat",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
+    {
+        "id": 1,
+        "name_category": "ceramah adi hidayat",
+        "title": "Fiqh Ikhtilaf ( Kaidah Memahami Al Quran) Ust Adi Hidayat, LC. MA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804704.us.archive.org/14/items/FiqhIkhtilafKaidahMemahamiAlQuranUstAdiHidayatLC.MA/Fiqh%20Ikhtilaf%20%28Kaidah%20Memahami%20Al-Quran%29%20Ust%20Adi%20Hidayat%2C%20LC.%20MA.mp3"
+    },
+    {
+        "id": 2,
+        "name_category": "ceramah adi hidayat",
+        "title": "Hakikat Manusia Dalam Al Quran Dan Sunnah Ust. Adi Hidayat, Lc, MA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904702.us.archive.org/0/items/HakikatManusiaDalamAlQuranDanSunnahUst.AdiHidayatLcMA/Hakikat%20Manusia%20Dalam%20al-Quran%20dan%20Sunnah%20part%201%20-%20Ust%20Adi%20Hidayat%2C%20Lc%2C%20MA%20-%20MT.%20Al-Khansa.mp3"
+    },
+    {
+        "id": 3,
+        "name_category": "ceramah adi hidayat",
+        "title": "Cara Mendidk Anak Sesuai Al Quran Dan Sunnah Ust. Adi Hidayat, Lc, MA.",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804701.us.archive.org/23/items/CaraMendidkAnakSesuaiAlQuranDanSunnahUst.AdiHidayatLcMA.MasjidNamiraLamongan/Cara%20Mendidk%20Anak%20sesuai%20Al%20Quran%20dan%20sunnah%20-%20Ust.%20Adi%20Hidayat%2C%20Lc%2C%20MA.%20Masjid%20Namira%20Lamongan%20.mp3"
+    },
+    {
+        "id": 4,
+        "name_category": "ceramah adi hidayat",
+        "title": "Orang Orang Yang Dikabulkan Doanya Ustadz Adi Hidayat",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601003.us.archive.org/34/items/orangorangyangdikabulkandoanyaustadzadihidayat/Orang-Orang%20yang%20Dikabulkan%20Doanya%20-%20Ustadz%20Adi%20Hidayat.mp3"
+    },
+    {
+        "id": 5,
+        "name_category": "ceramah adi hidayat",
+        "title": "Orang Orang Yang Dikabulkan Doanya Ustadz Adi Hidayat",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601003.us.archive.org/34/items/orangorangyangdikabulkandoanyaustadzadihidayat/USTADZ%20ADI%20HIDAYAT%20KAJIAN%20MUSAWARAH%20%28642019%29.mp3"
+    },
+    {
+        "id": 6,
+        "name_category": "ceramah adi hidayat",
+        "title": "Amalan Penggugur Banyak Dosa Ceramah Ustadz Adi Hidayat",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia803002.us.archive.org/20/items/fullamalanpenggugurbanyakdosaceramahustadzadihidayatterbaru2019/%5BFULL%5D%20Amalan%20Penggugur%20Banyak%20Dosa%20-%20Ceramah%20Ustadz%20Adi%20Hidayat%20Terbaru%202019.mp3"
+    },
+    {
+        "id": 7,
+        "name_category": "ceramah adi hidayat",
+        "title": "Ceramah Tentang Tauhid Ustadz Adi Hidayat",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904704.us.archive.org/10/items/CeramahTentangTauhidUstadzAdiHidayat/Ceramah%20Tentang%20Tauhid%20-%20Ustadz%20Adi%20Hidayat.mp3"
+    },
+    {
+        "id": 8,
+        "name_category": "ceramah adi hidayat",
+        "title": "Ustadz Adi Hidayat, Lc, MA Ceramah Tentang Rumah Tangga",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia903206.us.archive.org/11/items/ustadz-adi-hidayat-lc-ma-ceramah-tentang-rumah-tangga/Ustadz%20Adi%20Hidayat%2C%20Lc%2C%20MA_Ceramah%20Tentang%20Rumah%20Tangga.mp3"
+    },
+    {
+        "id": 9,
+        "name_category": "ceramah adi hidayat",
+        "title": "Anatomi Kebaikan, Ustadz Adi Hidayat, Lc, MA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800400.us.archive.org/15/items/AnatomiKebaikanUstadzAdiHidayatLcMA/Anatomi%20Kebaikan%20%28Ust.%20Adi%20Hidayat%2C%20MA%29%20Disc%201.mp3"
+    },
+    {
+        "id": 10,
+        "name_category": "ceramah adi hidayat",
+        "title": "Rahasia Doa Dalam Al Quran Dan Sunnah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801807.us.archive.org/12/items/2-rahasia-doa-dalam-al-quran-dan-sunnah/2-rahasia-doa-dalam-al-quran-dan-sunnah.mp3"
+    },
+    {
+        "id": 11,
+        "name_category": "ceramah adi hidayat",
+        "title": "Adi Hidayat Isyarat Sains Dalam Al Qur An & Sunnah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800802.us.archive.org/33/items/AdiHidayatIsyaratSainsDalamAlQurAnSunnah/Adi%20Hidayat%20-%20Antara%20Manhaj%20%26%20Madzhab.mp3"
+    },
+    {
+        "id": 12,
+        "name_category": "ceramah adi hidayat",
+        "title": "Adi Hidayat Antara Manhaj & Madzhab Full",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801904.us.archive.org/20/items/adi-hidayat-antara-manhaj-madzhab-full/Adi%20Hidayat%20-%20Antara%20Manhaj%20%26%20Madzhab%20full.mp3"
+    },
+    {
+        "id": 13,
+        "name_category": "ceramah adi hidayat",
+        "title": "Ust Adi Hidayat Lc, MA Persoalan Seputar Ramadhan",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800403.us.archive.org/2/items/UstAdiHidayatLcMAPersoalanSeputarRamadhan/Menyambut%20Ramadhan%2C%20Cara%20Penentuan%20Awal%20Ramadhan%2C%20Mengapa%20Terjadi%20Perbedaan%20%281%29.mp3"
+    },
+    {
+        "id": 14,
+        "name_category": "ceramah adi hidayat",
+        "title": "Ust Adi Hidayat Lc, MA Persoalan Seputar Ramadhan",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600403.us.archive.org/2/items/UstAdiHidayatLcMAPersoalanSeputarRamadhan/Menyambut%20Ramadhan%2C%20Cara%20Penentuan%20Awal%20Ramadhan%2C%20Mengapa%20Terjadi%20Perbedaan%20%282%29.mp3"
+    },
+    {
+        "id": 15,
+        "name_category": "ceramah adi hidayat",
+        "title": "Meneladani Rosulullah Ustadz Adi Hidayat",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801400.us.archive.org/35/items/MeneladaniRosulullahUstadzAdiHidayat/Meneladani%20Rosulullah%20-%20Ustadz%20Adi%20Hidayat%2C.mp3"
+    },
+    {
+        "id": 16,
+        "name_category": "ceramah adi hidayat",
+        "title": "Ulumul Hadits (Ilmu-Ilmu Yang Berkaitan Dengan Hadits), Ustadz Adi Hidayat, Lc, MA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800407.us.archive.org/34/items/UlumulHaditsIlmuIlmuYangBerkaitanDenganHaditsUstadzAdiHidayatLcMA/Ulumul%20Hadits%20%28Ilmu-Ilmu%20yang%20Berkaitan%20Dengan%20Hadits%29%20Disc%201.mp3"
+    },
+    {
+        "id": 17,
+        "name_category": "ceramah adi hidayat",
+        "title": "Adi Hidayat Agar Hijrah Tak Hilang Arah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801902.us.archive.org/1/items/adi-hidayat-agar-hijrah-tak-hilang-arah-2/Adi%20Hidayat%20-%20%26%20Ustadz%20Felix%20Siauw%20Menyoal%20Tahdzir%20%26%20Abu%20Janda.mp3"
+    },
+    {
+        "id": 18,
+        "name_category": "ceramah adi hidayat",
+        "title": "Gagal Fokus Ustadz Adi Hidayat Lc, MA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801402.us.archive.org/22/items/GagalFokusUstadzAdiHidayatLcMA/Gagal%20Fokus%20Ustadz%20Adi%20Hidayat%20Lc%2C%20MA.mp3"
+    },
+    {
+        "id": 19,
+        "name_category": "ceramah adi hidayat",
+        "title": "Esensi Taqwa Ustadz Adi Hidayat, Lc., MA.",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia804706.us.archive.org/4/items/EsensiTaqwaUstadzAdiHidayatLc.MA./Esensi%20Taqwa%20-%20Ustadz%20Adi%20Hidayat%2C%20Lc.%2C%20MA..mp3"
+    },
+    {
+        "id": 20,
+        "name_category": "ceramah adi hidayat",
+        "title": "Fiqh Syaithan Ustadz Adi Hidayat, Lc, MA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia904708.us.archive.org/23/items/FiqhSyaithanUstadzAdiHidayatLcMA/Fiqh%20Syaithan%20-%20Ustadz%20Adi%20Hidayat%2C%20Lc%2C%20MA.mp3"
+    },
+    {
+        "id": 21,
+        "name_category": "ceramah adi hidayat",
+        "title": "Kajian Tauhid Ust Adi Hidayat, Lc, MA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801406.us.archive.org/13/items/KajianTauhidUstAdiHidayatLcMA/Kajian%20Tauhid%20-%20Ust%20%20Adi%20Hidayat%2C%20Lc%2C%20MA.mp3"
+    }
+]
+}
