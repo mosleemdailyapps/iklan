@@ -3,20 +3,20 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -30,78 +30,195 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
+      "name_category": "sholawat nabi",
       "image": "file:///android_asset/image/khalid.jpg"
     },
     {
       "id": 2,
       "name_category": "Hanan Attaki",
       "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Mr. Kim",
-      "image": "file:///android_asset/image/kim.jpeg"
-    },
-    {
-      "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "Adi Hidayat",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
     }
   ],
   "Data": [
     {
-      "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Paksakan Ibadah",
-      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
+        "id": 1,
+        "name_category": "sholawat nabi",
+        "title": "ALFA SALAM",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/ALFU%20SALAM%20Sholawat%20Sholatuminallah%20Clip%20Muslim%20Wedding.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Sholatun minallah wa alfa salam<br>&lsquo;Alal Mushthofa Ahmad syarifil maqom<br><br>Salamun salamun kamiskil khitam<br>&lsquo;Alaikum uhaiba bana Ya Kirom<br><br>Wa man dzikruhum unsuna fidh-dholam<br>Wa nurun lana baina Hadzal anam<br><br>Sakantum fu-adi wa robbil &lsquo;ibad<br>Wa antum maromi wa aqshol murod<br><br>Fahal tus&rsquo;iduni bishoufil widad<br>Wa hal tamnahuni syarifal maqom<br><br>Ana &lsquo;abdukum ya uhailal wafa<br>Wa fi qurbikum marhami was-syif</p>\n"
+    }
+    ,
     {
-      "id": 2,
-      "name_category": "Khalid Basalamah",
-      "title": "Dosa Membawa Keburukan",
-      "image": "file:///android_asset/image/khalid.jpg",
-      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
-      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
-    {
-      "id": 3,
-      "name_category": "Hanan Attaki",
-      "title": "Lapang Dada",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+        "id": 2,
+        "name_category": "sholawat nabi",
+        "title": "Sholawat Burdah",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Al%20Burdah%20Sholawat%20Nabi%20Bikin%20Nangis%20Versi%20Baper.mp3",
+        "lyrics": "<p>Maulaya sholli &lsquo; wasallim daaiman abadan &lsquo;alal habibika Khoirul kholqi kullihimi.<br><br>Huwalhabiibulladzi turjasyafaatuhu likulli hauli minal ahwali muqtahami.<br><br>Amin tadzakkuri jirooni bidzi salami, mazajta dam&rsquo;an jaroo muqlatin bidami.<br><br>Am habbatirriihu mintilqooi kaadhzimatin, wa auwmadhzol barqu fidz dhzomaai idhzomi.<br><br>Ya Robbi bil Musthofa balligh maqoo sidanaa, waghfirlana mamadhzo yaa wa-asi&rsquo;al karomi.</p>\n"
     },
     {
-      "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "title": "Cambuk Untuk Kita Semua",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
+        "id": 3,
+        "name_category": "sholawat nabi",
+        "title": " Ya Habibal Qolbi",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Pujaan%20Hati%20%28Habibal%20Qolbi%29%20Sholawat%20Bikin%20Baper%20%26%20Terharu.mp3",
+        "lyrics": "<p>Ya habibal qalbi ya khoirol baroyah<br>Yalijitta bil haqqi rosulalhidayah<br>Ya habibal qalbi ya khoirol baroyah<br>Yalijitta bil haqqi rosulalhidayah<br><br>Ya Rosulallah ya habiballah<br>Ya Rosulallah ya habiballah<br>Yaumal wiladah kalbidayah<br><br>lilhidayah kal bidayah<br>Yaumal wiladah kalbidayah<br>lilhidayah kal bidayah<br>Intajid ya toha binnuril hidayah<br><br>Ya Rosulallah Ya Rasulallah<br>Ji&rsquo;ta bidinillah ji&rsquo; kullal baroyah<br>Yahabiballah Ya Habiballah<br>Ya Ya Ya Ya Basyirol khoir<br>Ya Rosulallah<br>Ya ya ya ya dalilannur<br><br>Ya Habiballah<br>Ya habibal qalbi ya khoirol baroyah<br>Yalijitta bil haqqi rosulalhidayah<br>Ya Rosulallah ya habiballah<br>Ya Rosulallah ya habiballah<br><br>Harapan yang nyata hidup bahagia<br>Cinta yang utama di hati slamanya<br>Denganmu ya Rasul rindu tuk bersama<br>Padamu ya Rabbi terkabul semoga<br>Engkaulah pujaan hatiYa Rasullah<br>Bersinarlah cahayanya kekasih Allah<br>Wahai Sang kekasih insan yang terpilih<br>Sholawat yang tercurah cinta sungguh indah<br><br>Pujaan hati ya Rasulallah<br>Cahaya cinta kekasih Allah<br>Ya habibal qalbi ya khoirol baroyah<br>Yali&rsquo;jit bil haqqi rosulalhidayah</p>\n"
+    },
     {
-      "id": 5,
-      "name_category": "Adi Hidayat",
-      "title": "Selalu Tenang karena ada Allah",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
+        "id": 4,
+        "name_category": "sholawat nabi",
+        "title": "Qomarun - Sholawat",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Qomarun%20-%20Mostafa%20Atef%20%28%20Cover%20by%20Sabyan%20%29.mp3",
+        "lyrics": "<p>&nbsp;Qamarun Qamarun Qamarun Sindan Nabi Qamarun<br><br>Wajamil Wajamil Wajamil Sidnan Nabi Wajamil<br><br>&nbsp;<br><br>Wkafful Mustafa Kalwardi Nadi<br><br>Wa Itruhahyabqa iza Massat ayadi<br><br>&nbsp;<br><br>Wkafful Mustafa Kalwardi Nadi Allah Allah<br><br>Wa Itruhahyabqa iza Massat ayadiAllah Allah<br><br>&nbsp;<br><br>Waamma nawaluha Kullal Ibadi<br><br>Wamma nawaluha Kullal Ibadi<br><br>Wamma nawaluha Kullal Ibadi<br><br>Wamma nawaluha Kullal Ibadi<br><br>Habibullahiya khoirol Baro aa<br><br>&nbsp;<br><br>Qamarun Qamarun Qamarun Sindan Nabi Qamarun<br><br>Wajamil Wajamil Wajamil Sidnan Nabi Wajamil<br><br>&nbsp;<br><br>Walazillullahu Bal Kananura Allah Allah<br><br>Tanalash Syamsaminhu wal buduraAllah Allah<br><br>Walazillullahu Bal Kananura Allah Allah<br><br>Tanalash Syamsaminhu wal budura Allah Allah<br><br>&nbsp;<br><br>Walam yakunil huda laula zuhura<br><br>Walam yakunil huda laula zuhura<br><br>wakullulkauni anaruhinuriqoha<br><br>&nbsp;<br><br>Qamarun Qamarun Qamarun Sindan Nabi Qamarun<br><br>Wajamil Wajamil Wajamil Sidnan Nabi Wajamil</p>\n"
+    },
     {
-      "id": 6,
-      "name_category": "Mr. Kim",
-      "title": "Source Code Mp3 Player",
-      "image": "file:///android_asset/image/kim.jpeg",
-      "link_mp3": "mp3/kim.ogg",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
+        "id": 5,
+        "name_category": "sholawat nabi",
+        "title": " ROBBANA SHOLLI",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Robbanaa%20Sholli%20Wasallim%20Sholawat%20DOA%20Bikin%20Baper.mp3",
+        "lyrics": "<p style=\"text-align: center;\">&nbsp;Robbana sholli wa sallim<br>&lsquo;Al&acirc; Nab&icirc;n&acirc;l mu&rsquo;allim &nbsp; &nbsp;<br>Muhammadin wal mul&acirc;zim<br>F&icirc; salki manhajil qow&icirc;m<br><br>Robban&acirc; binnab&icirc;l kar&icirc;m<br><br>Dz&icirc;l j&acirc;hi washsh&icirc;tatisy-syam&icirc;m<br>Sahhiln&acirc; robban&acirc;l &lsquo;al&icirc;m<br>Dlommal &lsquo;al&icirc;mi watta&rsquo;l&icirc;m<br>Robban&acirc; bil kholqil &lsquo;adh&icirc;m<br>Kholaqta bil khuluqit-tam&icirc;m<br>Kholaqtan&acirc; husnat-taqw&icirc;m<br>Atmim khulqon&acirc; y&acirc; &lsquo;adh&icirc;m<br>Robban&acirc; bil &lsquo;abdil &lsquo;adh&icirc;m<br>Muhammad ro-&ucirc;fin roh&icirc;min<br>Sallimn&acirc; min &lsquo;adwin roj&icirc;min<br>Wa &lsquo;adz&acirc;bin-n&acirc;ril jah&icirc;m<br>&Atilde;m&icirc;n &atilde;m&icirc;n &atilde;m&icirc;n &atilde;m&icirc;n<br>&Atilde;m&icirc;n y&acirc; robban&acirc;l hal&icirc;m<br>&Atilde;m&icirc;n &atilde;m&icirc;n &atilde;m&icirc;n &atilde;m&icirc;n<br>&Atilde;m&icirc;n y&acirc; robban&acirc;l kar&icirc;m</p>\n"
+    },
+    {
+        "id": 6,
+        "name_category": "sholawat nabi",
+        "title": "YA ILAHI (ILAHITAMMIMINNA'MA 'ALAINA)",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/SHOLAWAT%20NABI%20ILLAHI%20TAMMIMIN%20NA%20MA%20ALAINA%20BIKIN%20BAPER.mp3",
+        "lyrics": "<p style=\"text-align: center;\">ILAAHI. . .<br><br>YA. . .ILAAHII. . .<br>YA. . .ILAAHII. . .<br><br>ILAHI tammimin na&apos;mah &apos;alaina<br><br>Wa wafiqna lisyukri kama baqina<br>Aziqna barda afwikamal awafi<br>Wa hawwin kulla mathlubin alaina<br>ILAHI tammimin na&apos;mah alaina<br>Wa wafiqna lisyukri kama baqina<br>Aziqna barda afwikamal awafi<br>Wa hawwin kulla mathlubin alaina<br><br>Fa inna la nuawilu fi muhimmin<br>Ala ma bina wa la maqod laqiina<br><br>Fa inna la nuawilu fi muhimmin<br>Ala ma bina wa la maqod laqiina<br>Ala ahadiw wa la sababiw walakin<br>Idza dzo qod wa kunta laha kamina<br><br>ILAHI tammimin na&apos;mah alaina<br><br>Wa wafiqna lisyukri kama baqina<br>Aziqna barda afwikamal awafi<br>Wa hawwin kulla mathlubin alaina<br><br><br>Fa inna la nuawilu fi muhimmin<br>Ala ma bina wa la maqod laqiina<br><br>Fa inna la nuawilu fi muhimmin<br>Ala ma bina wa la maqod laqiina<br><br>Ala ahadiw wa la sababiw walakin<br>Idza dzo qod wa kunta laha kamina<br><br>ILAHI tammimin na&apos;mah alaina<br><br>Wa wafiqna lisyukri kama baqina<br>Aziqna barda afwikamal awafi<br>Wa hawwin kulla mathlubin alaina</p>\n"
+    },
+    {
+        "id": 7,
+        "name_category": "sholawat nabi",
+        "title": "Ghurabaa",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Shalawat%20%20GHUROBA%20menyentuh%20hati%20Terbaru%202017.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Ghurabaa&rsquo; wa li ghairillaahi laa nahnil jibaa<br><br>&nbsp;Ghurabaa&rsquo; war tadhainaa haa shi&rsquo;aaran lil hayaa<br><br>&nbsp;Inta sal &lsquo;anna fa inna laa nubaali bit-tughaat<br><br>&nbsp;Nahnu jundullaahi dawman darbunaa darbul-ubaa<br><br>Lan nubaali bil quyuud, bal sanamdhii lil khulood<br><br>&nbsp;Fal nujaahid wa nunaadhil wa nuqaatil min jadeed<br><br>&nbsp;Ghurabaa&rsquo; hakazhal ahraaru fii dunya-al &lsquo;abeed<br><br><br>Kam tazhaakkarnaa zamaanan yawma kunna su&rsquo;adaa<br><br>&nbsp;Bi kitaabillaahi natloohu sabaahan wa masaa`<br><br>&nbsp;Ghurabaa&rsquo; wa li ghairillaahi laa nahnil jibaah<br><br>&nbsp;Ghurabaa&rsquo; war tadhainaa haa shi&rsquo;aaran lil hayaah</p>\n"
+    },
+    {
+        "id": 8,
+        "name_category": "sholawat nabi",
+        "title": "Ahmad Ya Habibi",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Ahmad%20Ya%20Habibi%20Versi%20Baru%20Bikin%20Baper.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Ahmad Ya Habibi<br><br>Ahmad ya habibi habibi<br><br>Habibi salam habibi<br><br>Salam &apos;alaika habibi<br><br>Ya &apos;aunal ghoribi salam &apos;alaik<br><br>Amnun wa salaamun salam &apos;alaika<br><br>Ahmad ya habibi habibi<br><br>Habibi salam habibi<br><br>Salam &apos;alaika habibi<br><br>dinukal islamu... salam &apos;alaik<br><br>Ji&apos;ta bil qur&apos;ani... salam &apos;alaik<br><br>Ahmad ya habibi habibi<br><br>Habibi salam habibi<br><br>Salam &apos;alaika habibi</p>\n"
+    },
+    {
+        "id": 9,
+        "name_category": "sholawat nabi",
+        "title": "Sholawat Badar",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Badar%20%28Banjari%20Cover%29%20-%20Diah%20Maghfiroh%20Zalzalah.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Shalaatullaah Salaamullaah &apos;Alaa Thaaha Rasuulillaah<br>Shalaatullaah Salaamullaah &apos;Alaa Yaa Siin Habiibillaah<br><br>Tawassalnaa Bibismillaah Wabil Haadi Rasuulillaah<br>Wakulli Mujaahidin Lillaah Bi Ahlil Badri Yaa Allaah<br><br>llaahi Sallimil Ummah Minal Aafaati Wanniqmah<br>Wamin Hammin Wamin Ghummah Bi Ahlil Badri Yaa Allaah<br><br>Ilaahi Najjinaa Waksyif Jamii&apos;a Adziyyatin Wahrif<br>Makaa idal &apos;idaa wal thuf Bi Ahlil Badri Yaa Allaah<br><br>llaahi Naffisil Kurbaa Minal&apos;Ashiina Wal&apos;Athbaa<br>Wakulli Baliyyatin Wawabaa Bi Ahlil Badri Yaa Allaah<br><br>Fakam Min Rahmatin Washalat Wakam Min Dzillatin Fashalat<br>Wakam Min Ni&apos;matin Washalat Bi Ahlil Bailri Yaa Allaah<br><br>Wakam Aghnaita Dzal &apos;Umri Wakam Autaita D&apos;Zal Faqri<br>Wakam&apos;Aafaita Dzal Wizri Bi Ahlil Badri Yaa Allaah<br><br>Laqad Dlaaqat&apos;Alal Oalbi Jamii&apos;ul Ardli Ma&apos; Rahbi<br>Fa Anji Minal Balaas Sha&apos;bi Bi Ahlil Badri Yaa Allaah<br><br>Atainaa Thaalibir Rifdi Wajullil Khairi Was Sa&apos;di<br>Fawassi&apos; Minhatal Aidii Bi Ahlil Badri Yaa Allaah<br><br>Falaa Tardud Ma&apos;al Khaibah Balij&apos;Alnaa&apos;Alath Thaibah<br>Ayaa Dzal &apos;lzzi Wal Haibah Bi Ahlil Badri Yaa Allaah<br><br>Wain Tardud Faman Ya-Tii Binaili Jamii&apos;i Haajaati<br>Ayaa jalail mulimmaati Bi Ahlil Badri Yaa Allaah<br><br>llaahighfir Wa Akrimnaa Binaili Mathaalibin Minnaa<br>Wadaf i Masaa-Atin &apos;Annaa Bi Ahlil Badri Yaa Allaah<br><br>llaahii Anta Dzuu Luthfin Wadzuu Fadl-Lin Wadzuu &apos;Athfin<br>Wakam Min Kurbatin Tanfii Bi Ahlil Badri Yaa Allaah<br><br>Washalli &apos;Alan Nabil Barri Bilaa &apos;Addin Walaa Hashri<br>Wa Aali Saadatin Ghurri Bi Ahlil Badri Yaa Allaah</p>\n"
+    },
+    {
+        "id": 10,
+        "name_category": "sholawat nabi",
+        "title": "Allah Allah Aghisna Ya Rasulullah",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Enak%20Allah%20Allah%20Aghisna%20Ya%20Rasulullah%20Bikin%20Baper.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Allah allah aghisna ya Rasulullah<br>Y&acirc; &lsquo;adh&icirc;mal j&acirc;h &lsquo;alaika sholaw&acirc;tull&acirc;h<br>&lsquo;Abdun bil b&acirc;b yartaj&icirc; latsmal a&rsquo;t&acirc;b<br>Jud bil jaw&acirc;b marhab&acirc;n qod qobbaln&acirc;h<br>Antal ma&rsquo;r&ucirc;f bil j&ucirc;di muqr&icirc;dl-dluy&ucirc;f<br>Inn&icirc; malh&ucirc;f aghitsn&icirc; bihaqqill&acirc;h<br>Antal hab&icirc;bul a&rsquo;dhom sirrul muj&icirc;b<br>H&acirc;sy&acirc; yakh&icirc;b man l&acirc;dza biros&ucirc;lill&acirc;h</p>\n"
+    },
+    {
+        "id": 11,
+        "name_category": "sholawat nabi",
+        "title": "Hasbi Robbi Jalallah",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20HASBY%20ROBBY%20JALALLAH%20Klip%20Kisah%20Sedih%20Mengharuhkan.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Hasbi robbi Jalallah<br><br>Ma Fi Qalbi Ghairullah<br><br>&lsquo;Al&acirc;l h&acirc;d&icirc; shollall&acirc;h L&acirc; il&acirc;ha ill&acirc;ll&acirc;h&nbsp;<br><br>Kaifa h&acirc;l&icirc; y&acirc; il&acirc;h&icirc; laisa l&icirc; khoirul &lsquo;amali<br><br>Suu&apos;u Amalii Katsiroh, Zaada Tha&apos;atii Qalil<br><br>Imhu Yaa Robbi Dzunubii, Mitsla Romlin Laa Tu&apos;ad<br><br>Wa&apos;fu &apos;annii kulla dzambii Washfahish Shafhal Jamil<br><br>Antasy-sy&acirc;f&icirc; antal k&acirc;f&icirc; f&icirc; muhimm&acirc;til um&ucirc;r<br><br>Anta robb&icirc; anta hasb&icirc; anta l&icirc; ni&rsquo;mal wak&icirc;l<br><br>&apos;Aafinii Min Kulli Daa&apos;in Waqdli &apos;Annii Haajatii<br><br>Innanii Qalban Saqiimaa Anta Man Yasyfil &apos;aliil<br><br>&nbsp;L&acirc; tudabbir laka amr&ocirc;n fu,l&ucirc;t-tadb&icirc;r halk&acirc;n<br><br>Sallimil amro ilain&acirc; nahnu aul&acirc; bika minka<br><br>&nbsp;Hasb&icirc; robb&icirc; jallall&acirc;h m&acirc; biqolb&icirc; ghoirull&acirc;h<br><br>N&ucirc;r Muhammad sholl&acirc;ll&acirc;h L&acirc; il&acirc;h&acirc; ill&acirc;All&acirc;h<br><br>Khoiru man anj&acirc;hull&acirc;h almusyaffa&rsquo; &lsquo;indall&acirc;h<br><br>Man bihi had&acirc;n&acirc;ll&acirc;h kullun&acirc; lid&icirc;nill&acirc;h<br><br>Th&ocirc;h&acirc; khoiru kholqill&acirc;h wa abh&acirc; rohmatill&acirc;h<br><br>Wa azk&acirc; &lsquo;ib&acirc;dill&acirc;h wa a&rsquo;l&acirc; min kholqill&acirc;h<br><br>Q&ocirc;thin&acirc;n f&icirc; amrill&acirc;h th&ocirc;mi&rsquo;&acirc;n f&icirc; hubbill&acirc;h<br><br>&lsquo;&Acirc;thiy&acirc;n min fadl-lill&acirc;h kh&ocirc;tim&acirc;n min ruslill&acirc;h<br><br>Kh&ocirc;dzil&acirc;n &lsquo;aduwwall&acirc;h mubthil&acirc;n juhh&acirc;dall&acirc;h<br><br>D&acirc;fi&rsquo;&acirc;n hij&acirc;ball&acirc;h mudh-hir&ocirc;n ay&acirc;dill&acirc;h<br><br>F&acirc;za man ath&ocirc;&rsquo;all&acirc;h &lsquo;&acirc;mil&acirc;n bi amrill&acirc;h<br><br>R&ocirc;jiy&acirc;n rohmatall&acirc;h kh&ocirc;-if&acirc;n &lsquo;iq&ocirc;ball&acirc;h<br><br>D&acirc;-im&acirc;n f&icirc; d&icirc;nill&acirc;h th&ocirc;mi&rsquo;&acirc;n f&icirc; qurbill&acirc;h<br><br>Q&ocirc;-im&acirc;n bidzikrill&acirc;h &lsquo;alayhi rohmatull&acirc;h<br><br>Ahmad khoiru kholqill&acirc;h Muhammad mukht&acirc;rull&acirc;h<br><br>Muhammad hab&icirc;bull&acirc;h Ibr&ocirc;h&icirc;m khol&icirc;lull&acirc;h<br><br>M&ucirc;s&acirc; kal&icirc;mull&acirc;h wa &lsquo;&Icirc;s&acirc; mas&icirc;hull&acirc;h<br><br>N&ucirc;hun najiyyull&acirc;h &lsquo;Alaihim sholaw&acirc;tull&acirc;h<br><br>Fa&rsquo;lam&ucirc; &lsquo;ib&acirc;dall&acirc;h annahum a&rsquo;azzu m&acirc;w&acirc;ll&acirc;h<br><br>&lsquo;Alaihim sal&acirc;mull&acirc;h bidaw&acirc;mi mulkill&acirc;h<br><br>&lsquo;Al&acirc; Th&ocirc;h&acirc; sholl&acirc;ll&acirc;h wa kadz&acirc; sal&acirc;mull&acirc;h<br><br>&lsquo;Al&acirc;l &acirc;li sholl&acirc;ll&acirc;h &lsquo;anish-shohbi rodliyall&acirc;h</p>\n"
+    },
+    {
+        "id": 12,
+        "name_category": "sholawat nabi",
+        "title": "Labbaika Innal Hamdalak (Ilahana Ma Adalak)",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Ilahana%20Ma%20A%27dalak%20Clip%20Asian%20Muslim%20Wedding.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Ilahana ma a&apos;da lak<br>Malika kulli man malak<br>Labbaika qad labbaitu lak<br>Wa kullu man ahallalak<br><br>Ilahana ma a&apos;da lak<br>Malika kulli man malak<br>Labbaika qad labbaitu lak<br>Wa kullu man ahallalak<br><br>Labbaika innal hamda lak<br>Wal mulka la syarika lak<br>Wal lailu lamma an halak<br>Was sabihatu fil falak<br><br>&apos;ala majaril munsalak<br>Makhaba &apos;abdun ammalak<br>Anta lahu haitsu salak<br>Laulaka ya rabbi halak<br><br>(*)<br><br>Ilahana ma a&apos;da lak<br>Malika kulli man malak<br>Labbaika qad labbaitu lak<br>Wa kullu man ahallalak<br><br>Ilahana ma a&apos;da lak<br>Malika kulli man malak<br>Labbaika qad labbaitu lak<br>Wa kullu man ahallalak<br><br>Labbaika innal hamda lak<br>Wal mulka la syarika lak<br>Wal lailu lamma an halak<br>Was sabihatu fil falak<br><br>&apos;ala majaril munsalak<br>Makhaba &apos;abdun ammalak<br>Anta lahu haitsu salak<br>Laulaka ya rabbi halak<br><br>Ya mukhtiamma agfalak<br>&apos;ajil wa badir ajalak<br>Wakhtim bikhairin &apos;amalak<br>Labbaika innal &apos;izzalak<br><br>(**)<br><br>Ilahana ma a&apos;da lak<br>Malika kulli man malak<br>Labbaika qad labbaitu lak<br>Wa kullu man ahallalak<br><br>Ilahana ma a&apos;da lak<br>Malika kulli man malak<br>Labbaika qad labbaitu lak<br>Wa kullu man ahallalak&nbsp;</p>\n"
+    },
+    {
+        "id": 13,
+        "name_category": "sholawat nabi",
+        "title": "Sholawat Isyfa'lana",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Isyfa%27lana%20dengan%20klip%20antara%20orang%20kaya%20dan%20orang%20miskin%2C%20beda%20banget.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Ya rosulallah ya ya nabi<br>Lakasy syafa&apos;ah wa hadza mathlabi<br>Antal murtaja yaumazziham<br>Isyfa&apos;lana lana lana ya habibana<br>Lakas syafa&apos;ah ya rosulallah<br><br>Ludzna bika yaa habib ya habibu<br>Anta lilkholqi thobib ya thobibu<br><br>Isyfa&apos;lana lana lana ya habibana<br>Lakas syafa&apos;ah ya rosulallah<br><br>(Ya rosulallah ya ya nabi)<br>(Lakas syafa&apos;ah wa hadza mathlabi)<br><br>Antal murtaja yaumazziham<br>Isyfa&apos;lana lana lana ya habibana<br>Lakas syafa&apos;ah ya rosulallah<br><br>Ji&apos;ta lilbaroya bisy syar&apos;ail mubin<br>Tansyurul hidayah bainal &apos;alamin<br><br>Isyfa&apos;lana lana lana ya habibana<br>Lakasy syafa&apos;ah ya rosulallah<br><br>(Ya rosulallah ya ya nabi)<br>(Lakasy syafa&apos;ah wa hadza mathlabi)<br><br>Antal murtaja yaumazziham<br>Isyfa&apos; lana lana lana ya habibana<br>Lakasy syafa&apos;ah ya rosulallah</p>\n"
+    },
+    {
+        "id": 14,
+        "name_category": "sholawat nabi",
+        "title": "Sholli Dzal Jalali",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Langitan%20Sholli%20Dzal%20Jalali%20%20An%20Nabawiyah%20Syamsuddin.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Sholli dzal jalali ta&apos;dadar-rimaali<br>Sholli dzal jalali ta&apos;dadar-rimaali<br>&apos;Alal badri ahmad nabiyul kamali<br>Wa ali washohbi<br>Budurul jamali<br><br>Sholli dzal jalali ta&apos;dadar-rimaali<br>Sholli dzal jalali ta&apos;dadar-rimaali<br>&apos;Alal badri ahmad nabiyul kamali<br>Wa ali washohbi<br>Budurul jamali<br><br>Ridhokan-na&apos;imi<br><br>Ya faka jahimi<br>Ya syafii saqimi<br>Sadarot Humumi<br>Wak syif li ghumumi Waqfan irdho hali<br>Waqfan irdho hali<br><br>sholli dzal jalali ta&apos;dadar-rimaali<br><br>Sholli dzal jalali ta&apos;dadar-rimaali<br>&apos;Alal badri ahmad nabiyul kamali<br>Wa ali washohbi<br>Budurul jamali<br><br>habibi thobibi<br><br>mughitsin mujibi<br>Kassyafal kurubi<br>Ya maljal ghoribi<br>Isy,roqu jamalak binuril Hilali<br>Binuril Hilali<br><br>sholli dzal jalali ta&apos;dadar-rimaali<br><br>Sholli dzal jalali ta&apos;dadar-rimaali<br>&apos;Alal badri ahmad nabiyul kamali<br>Wa ali washohbi<br>Budurul jamali<br><br>H&atilde;lali nizhomi<br><br>fi mad,hit-tiHami<br>Sholati salami<br>Bithulid-dawami<br>Masshohbu ghoromi sholli dzal jalali<br>Sholli dzal jalali<br><br>Sholli dzal jalali ta&apos;dadar-rimaali<br><br>Sholli dzal jalali ta&apos;dadar-rimaali<br>&apos;Alal badri ahmad nabiyul kamali<br>Wa ali washohbi<br>Budurul jamali<br><br>Ridhokan-na&apos;imi<br><br>Ya faka jahimi<br>Ya syafii saqimi<br>Sadarot Humumi<br>Wak syif li ghumumi Waqfan irdho hali<br>Waqfan irdho hali<br><br>Sholli dzal jalali ta&apos;dadar-rimaali<br><br>Sholli dzal jalali ta&apos;dadar-rimaali<br>&apos;Alal badri ahmad nabiyul kamali<br>Wa ali washohbi<br>Budurul jamali</p>\n"
+    },
+    {
+        "id": 15,
+        "name_category": "sholawat nabi",
+        "title": "Zaujati - Uhibbuki Mistla Maa Anti",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Menyentuh%20Hati%20%28Uhibbuki%29%20Zaujati%20Istriku%20%D8%A7%D8%AD%D8%A8%D9%83%20%D9%85%D8%AB%D9%84%D9%85%D8%A7%20%D8%A7%D9%86%D8%AA%D9%8A%20~%20SHOLAWAT%20BAPER%20~.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Uhibbuki mitsla maa anti Uhibbuki kaifa maa Kunti<br><br>Wa mahmaa kaana mahmaa shooro, Antii habiibatii anti<br><br>Zaujatii, Antii habiibatii anti<br><br>Halaalii anti laa akhsyaa &apos;azuulan himmuhuu maqti.<br><br>Laqod adzinaz zamaanu lanaa biwushlin ghoiri munbatti<br><br>Saqoitil hubba fii qolbii bihusnil fi&apos;li wassamti<br><br>yaghiibus sa&apos;du in ghibti wa yashful &apos;aisyu in ji&apos;ti<br><br>Nahaarii kaadihun hattaa idzaa maa &apos;udtu lilbaiti<br><br>Laqiituki fanjalaa &apos;annii dhonaaya idzaa maa tabassamti<br><br>Tadhiiqu biyal hayaatu idzaa bihaa yauman tabarromti.<br><br>Fa as&apos;aa jaahidan hattaa uhaqqiqo maa tamannaiti<br><br>Hanaa&apos;ii anti faltahna&apos;ii bidif-il hubbi maa &apos;isyti.<br><br>Faruuhanaa qodi&apos;talafaa kamitslil ardhi wannabti<br><br>Fa yaa amalii wa yaa sakanii wa yaa unsii wa mulhimati.<br><br>Yathiibul &apos;aisyu mahmaa dhooqotil ayyamu in thibti</p>\n"
+    },
+    {
+        "id": 16,
+        "name_category": "sholawat nabi",
+        "title": "Sholawat Antal Amin",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Menyentuh%20Hati%20-%20Antal%20Amin%20Lengkap%20dan%20Terjemah%20Lirik%20Bahasa.mp3",
+        "lyrics": "a<p style=\"text-align: center;\">Robb&icirc; kholaq Th&ocirc;h&acirc; min n&ucirc;r, f&icirc;hih tir&ocirc;m<br><br>N&acirc;d&acirc;hu aqbil y&acirc; mukht&acirc;r antal am&icirc;n antal am&icirc;n<br><br>Lammar taq&ocirc;l baital ma&rsquo;m&ucirc;r, sholl&acirc; im&acirc;m sholl&acirc; im&acirc;m<br><br>Wa qod dan&acirc; min robbihi alb&acirc;h&icirc;l jal&icirc;l alb&acirc;h&icirc;l jal&icirc;l<br><br>In rumta an tahdzo bilhuur, yaumaz zihaam yaumaz zihaam<br><br>Sholli &apos;alaa baahil anwaar, &apos;aynil yaqiin &apos;aynil yaqiinN&acirc;d&acirc;hu aqbil y&acirc; mukht&acirc;r antal am&icirc;n antal am&icirc;n<br><br>N&acirc;d&acirc;hu aqbil y&acirc; mukht&acirc;r antal am&icirc;n antal am&icirc;n<br><br>Robb&icirc; kholaq Th&ocirc;h&acirc; min n&ucirc;r, f&icirc;hih tir&ocirc;m f&icirc;hih tir&ocirc;m<br><br>N&acirc;d&acirc;hu aqbil y&acirc; mukht&acirc;r antal am&icirc;n antal am&icirc;n</p>\naa"
+    },
+    {
+        "id": 17,
+        "name_category": "sholawat nabi",
+        "title": "Alal Madinah",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Nabi%20Alal%20Madinah%20Musik%20Syahdu%20suara%20Merduh%20Bikin%20Baper.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br>Robbi Balighna Nazuurul Hadhroh<br>Wan Syaahid Ahmad Wal Qubbal Hadroh<br><br>Robbi Balihgna Ziyaaroh Thooha<br>Wa Nasuufur Roudhoh Wan Shollii Ihdaahaa<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br><br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br><br>Wa Naquulu Yaa Nabii Yaa &apos;Azhiimal Jaah<br>Kun Lii Mujiiron Kun Lii Mu&apos;iinan<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br><br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br><br>Qosdii Ilaa Nahwikum Asiiru<br>Waddam&apos;u Min Muqlatii Ghoziiru<br>Wal Qolbu Fii Hubbikum Asiiru<br>Yaa Qolbii Ifroh Haazaa Nabiyyuna<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br><br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br><br>Saaqil Humayya &apos;Arrij &apos;Alayya<br>Wasqinii Hayyan Ka&apos;san Wafiyyan<br>Wamdah Muhammad Khoirol Barriyah<br>Fahuwas Safii&apos;u Lilmuznibiina<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah<br>&apos;Alaal Madiinah &apos;Alaal Madiinah<br>Robbi Balighnaa Ziyaaroh Madiinah</p>\n"
+    },
+    {
+        "id": 18,
+        "name_category": "sholawat nabi",
+        "title": "Ya Allah Biha Ya Allah Bi Husnil Khotimah ",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Nabi%20Bikin%20Nangis%20dengan%20Kisah%20Sedih%20%28Ya%20Allah%20bihusnil%20khatimah%29.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Y&acirc; All&acirc;h bih&acirc; y&acirc; All&acirc;h bih&acirc;, Y&acirc; All&acirc;h bihusnil kh&ocirc;timah&nbsp;<br><br>Y&acirc; robbi y&acirc; &lsquo;&acirc;limal h&acirc;l ilaika wajjahtul &acirc;m&acirc;l&nbsp;<br><br>Famnun &lsquo;alain&acirc; bil iqb&acirc;l, wakun lan&acirc; washluhil b&acirc;l&nbsp;<br><br>Y&acirc; robbi y&acirc; robbil arb&acirc;b, &lsquo;abduk faq&icirc;ruk &lsquo;al&acirc;l b&acirc;b&nbsp;<br><br>At&acirc; waqod battal asb&acirc;b mustadrik&acirc;n ba&rsquo;da m&acirc;m&acirc;l&nbsp;<br><br>Y&acirc; robbi &lsquo;abduka bib&acirc;bik , yakhsy&acirc; al&icirc;ma &lsquo;adz&acirc;bik&nbsp;<br><br>Wa yartaj&icirc; litsaw&acirc;bika wa ghoitsu rohmatika hathth&ocirc;l&nbsp;<br><br>Y&acirc; man yar&ocirc; sirro qolb&icirc; hasb&icirc;th-thil&acirc;&rsquo;uka hasb&icirc;&nbsp;<br><br>Famhu bi&rsquo;afwika dzanb&icirc; washlih qush&ucirc;d&icirc; wal a&rsquo;m&acirc;l&nbsp;<br><br>Y&acirc; robbi y&acirc; robbi inn&icirc;, as-alukal &lsquo;afwa &lsquo;ann&icirc;&nbsp;<br><br>Wa lan yakhib f&icirc;k&acirc; dhonn&icirc; y&acirc; m&acirc;likal mulki y&acirc; w&acirc;l&nbsp;<br><br>Y&acirc; robbi anta nash&icirc;r&icirc; falaqqin&icirc; kulla khoiri&nbsp;<br><br>Waj&rsquo;al jin&acirc;nak mash&icirc;r&icirc; wakhtim bil &icirc;m&acirc;nil &acirc;j&acirc;l&nbsp;<br><br>Wa shilli f&icirc; kulli h&acirc;lati &lsquo;al&acirc; muz&icirc;lidh-dhol&acirc;lati&nbsp;<br><br>Man kallamat-hul ghoz&acirc;lah, Muhammadil h&acirc;d&icirc;d-d&acirc;l</p>\n"
+    },
+    {
+        "id": 19,
+        "name_category": "sholawat nabi",
+        "title": "Sholawat Nabi Sholaatun Bissalaamil Mubin ",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Nabi%20Sholaatun%20Bissalaamil%20Mubin%20Bikin%20Baper.mp3",
+        "lyrics": "<p style=\"text-align: center;\">&nbsp; &nbsp; Shol&acirc;tun bis-sal&acirc;mil mub&icirc;ni linuqthotit-ta&rsquo;y&icirc;ni y&acirc; ghor&ocirc;m&icirc;<br>&nbsp; &nbsp; Nabiyyun k&acirc;na ashlat-takw&icirc;ni min &lsquo;ahdi Kun fayak&ucirc;n y&acirc; ghor&ocirc;m&icirc;<br>&nbsp; &nbsp; Ay&acirc; man j&acirc;-an&acirc; haqq&ocirc;n nadz&icirc;ri mugh&icirc;tsan musbil&acirc;n subular-rosy&acirc;di<br>&nbsp; &nbsp; Ros&ucirc;lull&acirc;hi y&acirc; dl&ocirc;w&icirc;l jab&icirc;ni wa y&acirc; man j&acirc;-a bil haqqil mub&icirc;n<br>&nbsp; &nbsp; Shol&acirc;tun lam tazal tutl&acirc; &lsquo;alaika kami&rsquo;th&ocirc;rin-nas&icirc;mi tuhd&acirc; ilaika</p>\n"
+    },
+    {
+        "id": 20,
+        "name_category": "sholawat nabi",
+        "title": "Ya Khoiro Maulud",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Nabi%20Ya%20Khoiro%20Maulud%20Syahdu%20bikin%20hati%20adem%20dan%20baper.mp3",
+        "lyrics": "<p style=\"text-align: center;\"><s>Ya Khoiro Maulud<br>Ya Khoiro mauludin bi makkata qod ata<br>Dzallat lihaibatihi jami&apos;a khusumihi<br>Ya khoiro maulud ... ya nabiyyana<br>Dhoat bihi kullul &apos;awalimi jahrotan<br>Wal kaunu ashbaha musyriqon biqudumihi<br>Ya khoiro maulud ... ya nabiyyana<br>Hadzal habibul mushthofa thohal ladzi<br>Kullul &apos;awalimi qod badat min nurihi<br>Ya khoiro maulud ... ya nabiyyana</s></p>\n"
+    },
+    {
+        "id": 21,
+        "name_category": "sholawat nabi",
+        "title": "Sholawat Nariyah",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia800808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Nariyah%20Versi%20Terbaru%20Bikin%20Baper.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Allahumma shali shalaatan kaamilatan wasallim salaaman taamman &apos;alaa&nbsp;<br>sayyidina muhammadinil ladzii tanhallu bihil &apos;uqodu wa tanfariju bihil&nbsp;<br>kurabu wa tuqdhaa bihil hawaa-iju.Wa tunaalu bihir-raghaa-ibu wa husnul&nbsp;<br>khowaatimi wa yustasqal ghamaamu bi wajhihil kariimi wa &apos;alaa aalihii wa<br>&nbsp;shohbihi fii kulli lamhatin wa nafasin bi &apos;adadi kulli ma&apos;luumin laka</p>\n"
+    },
+    {
+        "id": 22,
+        "name_category": "sholawat nabi",
+        "title": "Sholawat Ya Asyiqol Musthofa",
+        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/06/15/3797852962.png",
+        "link_mp3": "https://ia600808.us.archive.org/9/items/SHOLAWATBIKINNANGIS/Sholawat%20Ya%20Asyiqol%20Musthofa%20Pernikahan%20Muslim.mp3",
+        "lyrics": "<p style=\"text-align: center;\">Yaa &lsquo;aasyiqol musthofaa, absyir binailil munaa Yaa &lsquo;aasyiqol musthofaa, absyir binailil munaa<br>Qod rooqoka susshofaa, ash-shofaa, wa thooba wafdul hanaa<br>Qod rooqoka susshofaa, ash-shofaa, wa thooba wafdul hanaa<br><br>Nuurul jamaali badaa, min wajhi syamsil hudaa<br>Nuurul jamaali badaa, min wajhi syamsil hudaa<br>Nuurul jamaali badaa, min wajhi syamsil hudaa<br><br>Man fadlluhu &lsquo;ammanaa<br>Man fadlluhu &lsquo;ammanaa, &lsquo;ammanaa<br>Wa thooba wafdul hanaa<br>Qod rooqoka sushsshofaa, wa thooba wafdul hanaa<br><br>Yaa &lsquo;aasyiqol musthofaa, absyir binailil munaa<br>Yaa &lsquo;aasyiqol musthofaa, absyir binailil munaa<br>Qod rooqoka susshofaa, ash-shofaa, wa thooba wafdul hanaa<br>Qod rooqoka susshofaa wa thooba wafdul hanaa<br><br>Thoohalladzii billiqoo, qod faaza lammaa-rtaqoo<br>Thoohalladzii billiqoo, qod faaza lammaa-rtaqoo, qod faaza lammaa-rtaqoo<br><br>Thoohalladzii billiqoo, qod faaza lammaa-rtaqoo<br><br>Duunal waroo robbunaa<br>Duunal waroo robbunaa, robbunaa<br><br>Wa thooba wafdul hanaa<br><br>Yaa &lsquo;aasyiqol musthofaa, absyir binailil munaa<br>Yaa &lsquo;aasyiqol musthofaa, absyir binailil munaa<br>Qod rooqo kaa sush-shofaa, ash-shofaa, wa thooba wafdul hanaa<br>Qod rooqo kaa sush-shofaa, wa thooba wafdul hanaa</p>\n"
     }
-  ]
+
+]
 }
+
+
