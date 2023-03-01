@@ -1,0 +1,165 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ustad felix siauw",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
+    {
+        "id": 1,
+        "name_category": "ustad felix siauw",
+        "title": "Udah Putusin Aja Felix Siauw",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601601.us.archive.org/20/items/UdahPutusinAjaFelixSiauw/UdahPutusinAja%20-%20Felix%20Siauw.mp3"
+    },
+    {
+        "id": 2,
+        "name_category": "ustad felix siauw",
+        "title": "Hari Solidaritas Hijab Internasional bersama Ustadz Felix Siauw",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802903.us.archive.org/12/items/HariSolidaritasHijabInternasionalBersamaUstadzFelixSiauw/04_hariSolidaritasHijabInternasional_ustadzFelixSiauw.mp3"
+    },
+    {
+        "id": 3,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia902207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%2013%20Maret%202013%2C%20Al%20Quran%20Sumber%20Inspirasi.mp3"
+    },
+    {
+        "id": 4,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia902207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%2013%20Pebruari%202013%2C%20Jurus%20Sehat%20Rasulullah.mp3"
+    },
+    {
+        "id": 5,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia902207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%202%20Januari%202014%2C%20Komunikasi%20dalam%20Keluarga.mp3"
+    },
+    {
+        "id": 6,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia902207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%2020%20Pebruari%202014%2C%20Emotional%20Healing.mp3"
+    },
+    {
+        "id": 7,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%2023%20Januari%202014%2C%20Kesadaran%20yang%20Mengubah%20Nasib.mp3"
+    },
+    {
+        "id": 8,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia902207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%2027%20Pebruari%202013%2C%20Faktor%20X%20Untuk%20Sukses.mp3"
+    },
+    {
+        "id": 9,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia902207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%206%20Maret%202014%2C%20Teman%20dalam%20Kebaikan.mp3"
+    },
+    {
+        "id": 10,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia902207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%206%20Pebruari%202014%2C%20Hikmah%20Perceraian.mp3"
+    },
+    {
+        "id": 11,
+        "name_category": "ustad felix siauw",
+        "title": "Inspirasi Iman",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802207.us.archive.org/18/items/InspirasiImanTVRIKamis9Januari2014IstiqamahDiJalanAllah/Inspirasi%20Iman%20TVRI%2C%20Kamis%209%20Januari%202014%2C%20Istiqamah%20di%20Jalan%20Allah.mp3"
+    },
+    {
+        "id": 12,
+        "name_category": "ustad felix siauw",
+        "title": "Ceramah Agama dan Motivasi",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802208.us.archive.org/18/items/PurdiECandraCaraGilaMenjadiPengusaha/Best%20Blessings%20For%20Women%20-%20Ir.%20Felix%20Siauw.mp3"
+    },
+    {
+        "id": 13,
+        "name_category": "ustad felix siauw",
+        "title": "Ceramah Agama dan Motivasi",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802208.us.archive.org/18/items/PurdiECandraCaraGilaMenjadiPengusaha/Beyond%20The%20Inspiration%20-%20Ustad%20Felix%20Siauw.mp3"
+    },
+    {
+        "id": 14,
+        "name_category": "ustad felix siauw",
+        "title": "Ceramah Agama dan Motivasi",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802208.us.archive.org/18/items/PurdiECandraCaraGilaMenjadiPengusaha/Clothing%20In%20Islam%20%20%20Felix%20Siauw.mp3"
+    },
+    {
+        "id": 15,
+        "name_category": "ustad felix siauw",
+        "title": "Ceramah Agama dan Motivasi",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802208.us.archive.org/18/items/PurdiECandraCaraGilaMenjadiPengusaha/Hidayah%20Menjadi%20Lebih%20Mudah%20-%20Ir.%20Felix%20Siauw.mp3"
+    },
+    {
+        "id": 16,
+        "name_category": "ustad felix siauw",
+        "title": "Ceramah Agama dan Motivasi",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802208.us.archive.org/18/items/PurdiECandraCaraGilaMenjadiPengusaha/Hikayat%20Negeri%20Bebek-%20Ustadz%20Felix%20Siauw%20shares%20Islam%20at%20Surau%20Kita%20Melbourne.mp3"
+    },
+    {
+        "id": 17,
+        "name_category": "ustad felix siauw",
+        "title": "Kumpulan Ceramah Islam",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802205.us.archive.org/29/items/131004UstadFelixSiauwALessonLearnedFromSultanMuhammadAlFatih4Oktober2013MABIT/130717%20Ustad%20Felix%20Siauw%20Menuju%20Pribadi%20Muslim%20yang%20Profesional%2017%20Juli%202013.mp3"
+    },
+    {
+        "id": 18,
+        "name_category": "ustad felix siauw",
+        "title": "Kumpulan Ceramah Islam",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia802205.us.archive.org/29/items/131004UstadFelixSiauwALessonLearnedFromSultanMuhammadAlFatih4Oktober2013MABIT/131004%20Ustad%20Felix%20Siauw%20a%20Lesson%20Learned%20From%20Sultan%20Muhammad%20al%20Fatih%204%20Oktober%202013%20MABIT.mp3"
+    }
+]
+}
