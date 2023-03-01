@@ -1,0 +1,249 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ust khalid basalamah",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
+    {
+        "id": 1,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke%201254%201260%20Bab%20Hukuman%20Pencurian%20Bagian%20Pertama.mp3"
+    },
+    {
+        "id": 2,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke%201250%201253%20Bab%20Hukuman%20Menuduh.mp3"
+    },
+    {
+        "id": 3,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke%201232%201235%20Bab%20Hukuman%20Pelaku%20Zina%20Bagian%20Pertama.mp3"
+    },
+    {
+        "id": 4,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke%201225%201231%20Bab%20Memerangi%20Penjahat%20dan%20Membunuh%20Orang%20Murtad.mp3"
+    },
+    {
+        "id": 5,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke%201206%201211%20Bab%20Denda.mp3"
+    },
+    {
+        "id": 6,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1158-1168%20Bab%20Penyusuan.mp3"
+    },
+    {
+        "id": 7,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1136-1147%20Bab%20Idah%2C%20Ihdad%2C%20Istibra%27.mp3"
+    },
+    {
+        "id": 8,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke%201267%201278%20Bab%20Hukuman%20Bagi%20Peminum%20%26%20Penjelasan%20Tentang%20Minuman%20Memabukkan.mp3"
+    },
+    {
+        "id": 9,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke%201261%201266%20Bab%20Hukuman%20Pencurian%20Bagian%20Kedua.mp3"
+    },
+    {
+        "id": 10,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1218-1219%20Bab%20Menutut%20Darah%20Dan%20Sumpah%3B%20Ke-1220-1224%20Memerangi%20Pemberontak.mp3"
+    },
+    {
+        "id": 11,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1212-1217%20Bab%20Denda%3B%20Ke-1218-1219%20Bab%20Menuntut%20Darah%20dan%20Sumpah.mp3"
+    },
+    {
+        "id": 12,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1206-1211%20Bab%20Denda.mp3"
+    },
+    {
+        "id": 13,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1199-1205%20Bab%20Urusan%20Pidana%20%28Bagian%20Kedua%29.mp3"
+    },
+    {
+        "id": 14,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1188-1193%20Urusan%20Pidana%20%28Bagian%20Pertama%29.mp3"
+    },
+    {
+        "id": 15,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1188-1193%20Urusan%20Pidana%20%28Bagian%20Pertama%29.mp3"
+    },
+    {
+        "id": 16,
+        "name_category": "ust khalid basalamah",
+        "title": "audioBulughulmaram Hadits Ustad Khalid Basalamah",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/13/items/BulughulmaramHaditsKe12321235BabHukumanPelakuZinaBagianPertama/Bulughulmaram%20Hadits%20Ke-1181-1187%20Bab%20Pemeliharaan.mp3"
+    },
+    {
+        "id": 17,
+        "name_category": "ust khalid basalamah",
+        "title": "audio15 Pilar Mempertahankan Rumah Tangga",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801203.us.archive.org/8/items/15PilarMempertahankanRumahTanggaKajianKe3/15%20Pilar%20Mempertahankan%20Rumah%20Tangga%20%28Kajian%20Ke-3%29.mp3"
+    },
+    {
+        "id": 18,
+        "name_category": "ust khalid basalamah",
+        "title": "audioKisah Sahabat Ke 10 Abu Ubaidah Bin Jarrah RA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601205.us.archive.org/27/items/KisahSahabatKe10AbuUbaidahBinJarrahRA/Kisah%20Sahabat%20Ke-10%20Abu%20Ubaidah%20bin%20Jarrah%20RA.mp3"
+    },
+    {
+        "id": 19,
+        "name_category": "ust khalid basalamah",
+        "title": "audioKisah Sahabat Ke 13׃ Mus'ab Bin Umair RA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801208.us.archive.org/26/items/KisahSahabatKe13MusabBinUmairRA_201608/Kisah%20Sahabat%20Ke-12%20Salim%20Maula%20Abi%20Khudzaifah%20RA%20%28Guru%20Al-Qur%27an%20Para%20Sahabat%29.mp3"
+    },
+    {
+        "id": 20,
+        "name_category": "ust khalid basalamah",
+        "title": "audioInilah Rahasia Rezekimu",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801209.us.archive.org/10/items/InilahRahasiaRezekimuaBagianKe2/Inilah%20Rahasia%20Rezekimu%20%28Bagian%20Ke-1%29.mp3"
+    },
+    {
+        "id": 21,
+        "name_category": "ust khalid basalamah",
+        "title": "audioInilah Rahasia Rezekimu",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601209.us.archive.org/10/items/InilahRahasiaRezekimuaBagianKe2/Inilah%20Rahasia%20Rezekimua%20%28Bagian%20Ke-2%29.mp3"
+    },
+    {
+        "id": 22,
+        "name_category": "ust khalid basalamah",
+        "title": "audioMinhajul Muslim, Bab Adab, Adab Terhadap Anak",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801200.us.archive.org/3/items/MinhajulMuslimBabAdabAdabTerhadapAnak/Minhajul%20Muslim%2C%20Bab%20Adab%2C%20Adab%20Terhadap%20Anak.mp3"
+    },
+    {
+        "id": 23,
+        "name_category": "ust khalid basalamah",
+        "title": "audioCeramah Sejarah Nabi SAW",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601205.us.archive.org/1/items/CeramahSejarahNabiSAWKe31PerangBaniMustalik/Ceramah%20Sejarah%20NABI%20SAW%20Ke-30%20Rentetan%20Peristiwa%20Setelah%20Perah%20Ahzab.mp3"
+    },
+    {
+        "id": 24,
+        "name_category": "ust khalid basalamah",
+        "title": "audioCeramah Sejarah Nabi SAW",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801205.us.archive.org/1/items/CeramahSejarahNabiSAWKe31PerangBaniMustalik/Ceramah%20Sejarah%20Nabi%20SAW%20Ke%2032%20Kaidah%20Hidup%20Rasulullah%20SAW%20Dalam%20Rumah%20Tangga.mp3"
+    },
+    {
+        "id": 25,
+        "name_category": "ust khalid basalamah",
+        "title": "audioCeramah Sejarah Nabi SAW",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601205.us.archive.org/1/items/CeramahSejarahNabiSAWKe31PerangBaniMustalik/Ceramah%20Sejarah%20Nabi%20SAW%20Ke%2033%20Perjanjian%20Hudaibiyah.mp3"
+    },
+    {
+        "id": 26,
+        "name_category": "ust khalid basalamah",
+        "title": "audioCeramah Sejarah Nabi SAW",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia801205.us.archive.org/1/items/CeramahSejarahNabiSAWKe31PerangBaniMustalik/Ceramah%20Sejarah%20Nabi%20SAW%20Ke-29%20Setelah%20Peperangan%20Perang%20Ahzab.mp3"
+    },
+    {
+        "id": 27,
+        "name_category": "ust khalid basalamah",
+        "title": "audioCeramah Sejarah Nabi SAW",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia601205.us.archive.org/1/items/CeramahSejarahNabiSAWKe31PerangBaniMustalik/Ceramah%20Sejarah%20Nabi%20SAW%20Ke-31%20Perang%20Bani%20Mustalik.mp3"
+    },
+    {
+        "id": 28,
+        "name_category": "ust khalid basalamah",
+        "title": "audioMeraih Surga Dengan Harta Bersama Usman Bin Afan RA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800509.us.archive.org/32/items/MeraihSurgaDenganHartaBersamaUsmanBinAfanRA2/Meraih%20Surga%20dengan%20Harta%20Bersama%20Usman%20bin%20Afan%20RA%20%281%29.mp3"
+    },
+    {
+        "id": 29,
+        "name_category": "ust khalid basalamah",
+        "title": "audioMeraih Surga Dengan Harta Bersama Usman Bin Afan RA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600509.us.archive.org/32/items/MeraihSurgaDenganHartaBersamaUsmanBinAfanRA2/SejarahSahabatNabiKe-3-meraihSurgaDenganHartaBersamaUsmanBinAfanRa2.mp3"
+    },
+    {
+        "id": 30,
+        "name_category": "ust khalid basalamah",
+        "title": "audioMeraih Surga Dengan Harta Bersama Usman Bin Afan RA",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600509.us.archive.org/32/items/MeraihSurgaDenganHartaBersamaUsmanBinAfanRA2/SejarahSahabatNabiKe-3-meraihSurgaDenganHartaBersamaUsmanBinAfanRa3.mp3"
+    }
+]
+}
