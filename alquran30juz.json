@@ -30,14 +30,14 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "alquran 30 juz",
+      "name_category": "Syekh Abdul Aziz Al-ahmad",
       "image": "file:///android_asset/image/khalid.jpg"
     }
   ],
   "Data": [
     {
         "id": 1,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al Fatihah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/001.mp3",
@@ -45,7 +45,7 @@
     },
     {
         "id": 2,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al Baqarah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/002.mp3",
@@ -53,7 +53,7 @@
     },
     {
         "id": 3,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ali Imran",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/003.mp3",
@@ -61,7 +61,7 @@
     },
     {
         "id": 4,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An Nisa",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/004.mp3",
@@ -69,7 +69,7 @@
     },
     {
         "id": 5,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al Ma'idah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/005.mp3",
@@ -77,7 +77,7 @@
     },
     {
         "id": 6,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al An'am",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/006.mp3",
@@ -85,7 +85,7 @@
     },
     {
         "id": 7,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-A'raf",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/007.mp3",
@@ -93,7 +93,7 @@
     },
     {
         "id": 8,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Anfal",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/008.mp3",
@@ -101,7 +101,7 @@
     },
     {
         "id": 9,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Taubah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/009.mp3",
@@ -109,7 +109,7 @@
     },
     {
         "id": 10,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Yunus",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/010.mp3",
@@ -117,7 +117,7 @@
     },
     {
         "id": 11,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Hud",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/011.mp3",
@@ -125,7 +125,7 @@
     },
     {
         "id": 12,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Yusuf",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/012.mp3",
@@ -133,7 +133,7 @@
     },
     {
         "id": 13,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ar-Ra'd",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/013.mp3",
@@ -141,7 +141,7 @@
     },
     {
         "id": 14,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ibrahim",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/014.mp3",
@@ -149,7 +149,7 @@
     },
     {
         "id": 15,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Hijr",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/015.mp3",
@@ -157,7 +157,7 @@
     },
     {
         "id": 16,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An-Nahl",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/016.mp3",
@@ -165,7 +165,7 @@
     },
     {
         "id": 17,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Isra",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/017.mp3",
@@ -173,7 +173,7 @@
     },
     {
         "id": 18,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Kahf",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/018.mp3",
@@ -181,7 +181,7 @@
     },
     {
         "id": 19,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Maryam",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/019.mp3",
@@ -189,7 +189,7 @@
     },
     {
         "id": 20,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ta Ha",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/020.mp3",
@@ -197,7 +197,7 @@
     },
     {
         "id": 21,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Anbiya",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/021.mp3",
@@ -205,7 +205,7 @@
     },
     {
         "id": 22,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Hajj",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/022.mp3",
@@ -213,7 +213,7 @@
     },
     {
         "id": 23,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Mu'minun",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/023.mp3",
@@ -221,7 +221,7 @@
     },
     {
         "id": 24,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An-Nur",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/024.mp3",
@@ -229,7 +229,7 @@
     },
     {
         "id": 25,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Furqan",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/025.mp3",
@@ -237,7 +237,7 @@
     },
     {
         "id": 26,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Asy-Syu'ara",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/026.mp3",
@@ -245,7 +245,7 @@
     },
     {
         "id": 27,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An-Naml",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/027.mp3",
@@ -253,7 +253,7 @@
     },
     {
         "id": 28,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Qasas",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/028.mp3",
@@ -261,7 +261,7 @@
     },
     {
         "id": 29,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-'Ankabut",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/029.mp3",
@@ -269,7 +269,7 @@
     },
     {
         "id": 30,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ar-Rum",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/030.mp3",
@@ -277,7 +277,7 @@
     },
     {
         "id": 31,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Luqman",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/031.mp3",
@@ -285,7 +285,7 @@
     },
     {
         "id": 32,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "As-Sajdah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/032.mp3",
@@ -293,7 +293,7 @@
     },
     {
         "id": 33,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Ahzab",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/033.mp3",
@@ -301,7 +301,7 @@
     },
     {
         "id": 34,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Saba",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/034.mp3",
@@ -309,7 +309,7 @@
     },
     {
         "id": 35,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Fatir",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/035.mp3",
@@ -317,7 +317,7 @@
     },
     {
         "id": 36,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Yaasiin",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/036.mp3",
@@ -325,7 +325,7 @@
     },
     {
         "id": 37,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "As-Saffat",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/037.mp3",
@@ -333,7 +333,7 @@
     },
     {
         "id": 38,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Sad (Shaad)",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/038.mp3",
@@ -341,7 +341,7 @@
     },
     {
         "id": 39,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Az-Zumar",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/039.mp3",
@@ -349,7 +349,7 @@
     },
     {
         "id": 40,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ghafir",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/040.mp3",
@@ -357,7 +357,7 @@
     },
     {
         "id": 41,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Fussilat",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/041.mp3",
@@ -365,7 +365,7 @@
     },
     {
         "id": 42,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Asy-Syura",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/042.mp3",
@@ -373,7 +373,7 @@
     },
     {
         "id": 43,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Az-Zukhruf",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/043.mp3",
@@ -381,7 +381,7 @@
     },
     {
         "id": 44,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ad-Dukhan",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/044.mp3",
@@ -389,7 +389,7 @@
     },
     {
         "id": 45,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Jasiyah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/045.mp3",
@@ -397,7 +397,7 @@
     },
     {
         "id": 46,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Ahqaf",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/046.mp3",
@@ -405,7 +405,7 @@
     },
     {
         "id": 47,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Muhammad",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/047.mp3",
@@ -413,7 +413,7 @@
     },
     {
         "id": 48,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Fath",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/048.mp3",
@@ -421,7 +421,7 @@
     },
     {
         "id": 49,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Hujurat",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/049.mp3",
@@ -429,7 +429,7 @@
     },
     {
         "id": 50,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Qaf (Qaaf)",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/050.mp3",
@@ -437,7 +437,7 @@
     },
     {
         "id": 51,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Az-Zariyat",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/051.mp3",
@@ -445,7 +445,7 @@
     },
     {
         "id": 52,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Tur",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/052.mp3",
@@ -453,7 +453,7 @@
     },
     {
         "id": 53,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An-Najm",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/053.mp3",
@@ -461,7 +461,7 @@
     },
     {
         "id": 54,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Qamar",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/054.mp3",
@@ -469,7 +469,7 @@
     },
     {
         "id": 55,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ar-Rahman",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/055.mp3",
@@ -477,7 +477,7 @@
     },
     {
         "id": 56,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Waqi'ah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/056.mp3",
@@ -485,7 +485,7 @@
     },
     {
         "id": 57,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Hadid",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/057.mp3",
@@ -493,7 +493,7 @@
     },
     {
         "id": 58,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Mujadilah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/058.mp3",
@@ -501,7 +501,7 @@
     },
     {
         "id": 59,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Hasyr",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/059.mp3",
@@ -509,7 +509,7 @@
     },
     {
         "id": 60,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Mumtahanah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/060.mp3",
@@ -517,7 +517,7 @@
     },
     {
         "id": 61,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "As-Saff",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/061.mp3",
@@ -525,7 +525,7 @@
     },
     {
         "id": 62,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Jumu'ah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/062.mp3",
@@ -533,7 +533,7 @@
     },
     {
         "id": 63,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Munafiqun",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/063.mp3",
@@ -541,7 +541,7 @@
     },
     {
         "id": 64,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Tagabun",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/064.mp3",
@@ -549,7 +549,7 @@
     },
     {
         "id": 65,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Talaq",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/065.mp3",
@@ -557,7 +557,7 @@
     },
     {
         "id": 66,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Tahrim",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/066.mp3",
@@ -565,7 +565,7 @@
     },
     {
         "id": 67,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Mulk",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/067.mp3",
@@ -573,7 +573,7 @@
     },
     {
         "id": 68,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Qalam",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/068.mp3",
@@ -581,7 +581,7 @@
     },
     {
         "id": 69,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Haqqah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/069.mp3",
@@ -589,7 +589,7 @@
     },
     {
         "id": 70,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Ma'arij",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/070.mp3",
@@ -597,7 +597,7 @@
     },
     {
         "id": 71,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Nuh",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/071.mp3",
@@ -605,7 +605,7 @@
     },
     {
         "id": 72,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Jinn",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/072.mp3",
@@ -613,7 +613,7 @@
     },
     {
         "id": 73,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Muzzammil",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/073.mp3",
@@ -621,7 +621,7 @@
     },
     {
         "id": 74,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Muddassir",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/074.mp3",
@@ -629,7 +629,7 @@
     },
     {
         "id": 75,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Qiyamah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/075.mp3",
@@ -637,7 +637,7 @@
     },
     {
         "id": 76,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Insan",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/076.mp3",
@@ -645,7 +645,7 @@
     },
     {
         "id": 77,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Mursalat",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/077.mp3",
@@ -653,7 +653,7 @@
     },
     {
         "id": 78,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An-Naba",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/078.mp3",
@@ -661,7 +661,7 @@
     },
     {
         "id": 79,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An-Nazi'at",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/079.mp3",
@@ -669,7 +669,7 @@
     },
     {
         "id": 80,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Abasa",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/080.mp3",
@@ -677,7 +677,7 @@
     },
     {
         "id": 81,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Takwir",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/081.mp3",
@@ -685,7 +685,7 @@
     },
     {
         "id": 82,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Infitar",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/082.mp3",
@@ -693,7 +693,7 @@
     },
     {
         "id": 83,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Tatfif",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/083.mp3",
@@ -701,7 +701,7 @@
     },
     {
         "id": 84,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Insyiqaq",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/084.mp3",
@@ -709,7 +709,7 @@
     },
     {
         "id": 85,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Buruj",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/085.mp3",
@@ -717,7 +717,7 @@
     },
     {
         "id": 86,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Tariq",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/086.mp3",
@@ -725,7 +725,7 @@
     },
     {
         "id": 87,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-A'la",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/087.mp3",
@@ -733,7 +733,7 @@
     },
     {
         "id": 88,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Gasyiyah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/088.mp3",
@@ -741,7 +741,7 @@
     },
     {
         "id": 89,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Fajr",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/089.mp3",
@@ -749,7 +749,7 @@
     },
     {
         "id": 90,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Balad",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/090.mp3",
@@ -757,7 +757,7 @@
     },
     {
         "id": 91,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Asy-Syams",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/091.mp3",
@@ -765,7 +765,7 @@
     },
     {
         "id": 92,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Lail",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/092.mp3",
@@ -773,7 +773,7 @@
     },
     {
         "id": 93,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Ad-Duha",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/093.mp3",
@@ -781,7 +781,7 @@
     },
     {
         "id": 94,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Insyirah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/094.mp3",
@@ -789,7 +789,7 @@
     },
     {
         "id": 95,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Tin",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/095.mp3",
@@ -797,7 +797,7 @@
     },
     {
         "id": 96,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-'Alaq",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/096.mp3",
@@ -805,7 +805,7 @@
     },
     {
         "id": 97,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Qadr",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/097.mp3",
@@ -813,7 +813,7 @@
     },
     {
         "id": 98,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Bayyinah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/098.mp3",
@@ -821,7 +821,7 @@
     },
     {
         "id": 99,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Az-Zalzalah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/099.mp3",
@@ -829,7 +829,7 @@
     },
     {
         "id": 100,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-'Adiyat",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/100.mp3",
@@ -837,7 +837,7 @@
     },
     {
         "id": 101,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Qari'ah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/101.mp3",
@@ -845,7 +845,7 @@
     },
     {
         "id": 102,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "At-Takasur",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/102.mp3",
@@ -853,7 +853,7 @@
     },
     {
         "id": 103,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-'Asr",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/103.mp3",
@@ -861,7 +861,7 @@
     },
     {
         "id": 104,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Humazah",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/104.mp3",
@@ -869,7 +869,7 @@
     },
     {
         "id": 105,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Fil",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/105.mp3",
@@ -877,7 +877,7 @@
     },
     {
         "id": 106,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Quraisy",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/106.mp3",
@@ -885,7 +885,7 @@
     },
     {
         "id": 107,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Ma'un",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/107.mp3",
@@ -893,7 +893,7 @@
     },
     {
         "id": 108,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Kausar",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/108.mp3",
@@ -901,7 +901,7 @@
     },
     {
         "id": 109,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Kafirun",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/109.mp3",
@@ -909,7 +909,7 @@
     },
     {
         "id": 110,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An-Nasr",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/110.mp3",
@@ -917,7 +917,7 @@
     },
     {
         "id": 111,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Lahab",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/111.mp3",
@@ -925,7 +925,7 @@
     },
     {
         "id": 112,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Ikhlas",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/112.mp3",
@@ -933,7 +933,7 @@
     },
     {
         "id": 113,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "Al-Falaq",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/113.mp3",
@@ -941,7 +941,7 @@
     },
     {
         "id": 114,
-        "name_category": "alquran 30 juz",
+        "name_category": "Syekh Abdul Aziz Al-ahmad",
         "title": "An-Nas",
         "image": "https://p7.hiclipart.com/preview/194/1011/606/quran-android-google-play-the-holy-quran.jpg",
         "link_mp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/114.mp3",
