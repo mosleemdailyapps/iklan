@@ -38,804 +38,914 @@
     {
         "id": 1,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al Fatihah",
         "image": "file:///android_asset/image/icon.jpg",
         "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/001.mp3",
-        "lyrics" : ""
+        "lyrics": "bismillah"
     },
     {
         "id": 2,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al Baqarah",
         "image": "file:///android_asset/image/icon.jpg",
         "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/002.mp3",
-      "lyrics" : ""
+        "lyrics": "bismillah"
     },
     {
         "id": 3,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ali Imran",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/003.mp3"
-      "lyrics" : ""
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/003.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 4,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An Nisa",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/004.mp3"
-      "lyrics" : ""
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/004.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 5,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al Ma'idah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/005.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/005.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 6,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al An'am",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/006.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/006.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 7,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-A'raf",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/007.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/007.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 8,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Anfal",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/008.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/008.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 9,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Taubah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/009.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/009.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 10,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Yunus",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/010.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/010.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 11,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Hud",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/011.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/011.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 12,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Yusuf",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/012.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/012.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 13,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ar-Ra'd",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/013.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/013.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 14,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ibrahim",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/014.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/014.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 15,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Hijr",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/015.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/015.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 16,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An-Nahl",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/016.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/016.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 17,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Isra",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/017.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/017.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 18,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Kahf",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/018.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/018.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 19,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Maryam",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/019.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/019.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 20,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ta Ha",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/020.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/020.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 21,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Anbiya",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/021.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/021.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 22,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Hajj",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/022.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/022.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 23,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Mu'minun",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/023.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/023.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 24,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An-Nur",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/024.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/024.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 25,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Furqan",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/025.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/025.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 26,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Asy-Syu'ara",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/026.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/026.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 27,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An-Naml",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/027.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/027.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 28,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Qasas",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/028.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/028.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 29,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-'Ankabut",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/029.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/029.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 30,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ar-Rum",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/030.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/030.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 31,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Luqman",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/031.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/031.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 32,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "As-Sajdah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/032.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/032.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 33,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Ahzab",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/033.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/033.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 34,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Saba",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/034.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/034.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 35,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Fatir",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/035.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/035.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 36,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Yaasiin",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/036.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/036.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 37,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "As-Saffat",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/037.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/037.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 38,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Sad (Shaad)",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/038.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/038.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 39,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Az-Zumar",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/039.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/039.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 40,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ghafir",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/040.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/040.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 41,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Fussilat",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/041.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/041.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 42,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Asy-Syura",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/042.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/042.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 43,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Az-Zukhruf",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/043.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/043.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 44,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ad-Dukhan",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/044.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/044.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 45,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Jasiyah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/045.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/045.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 46,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Ahqaf",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/046.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/046.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 47,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Muhammad",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/047.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/047.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 48,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Fath",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/048.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/048.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 49,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Hujurat",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/049.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/049.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 50,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Qaf (Qaaf)",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/050.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/050.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 51,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Az-Zariyat",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/051.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/051.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 52,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Tur",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/052.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/052.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 53,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An-Najm",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/053.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/053.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 54,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Qamar",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/054.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/054.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 55,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ar-Rahman",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/055.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/055.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 56,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Waqi'ah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/056.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/056.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 57,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Hadid",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/057.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/057.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 58,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Mujadilah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/058.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/058.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 59,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Hasyr",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/059.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/059.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 60,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Mumtahanah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/060.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/060.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 61,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "As-Saff",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/061.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/061.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 62,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Jumu'ah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/062.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/062.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 63,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Munafiqun",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/063.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/063.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 64,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Tagabun",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/064.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/064.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 65,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Talaq",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/065.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/065.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 66,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Tahrim",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/066.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/066.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 67,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Mulk",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/067.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/067.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 68,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Qalam",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/068.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/068.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 69,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Haqqah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/069.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/069.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 70,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Ma'arij",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/070.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/070.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 71,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Nuh",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/071.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/071.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 72,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Jinn",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/072.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/072.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 73,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Muzzammil",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/073.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/073.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 74,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Muddassir",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/074.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/074.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 75,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Qiyamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/075.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/075.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 76,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Insan",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/076.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/076.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 77,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Mursalat",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/077.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/077.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 78,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An-Naba",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/078.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/078.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 79,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An-Nazi'at",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/079.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/079.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 80,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Abasa",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/080.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/080.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 81,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Takwir",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/081.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/081.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 82,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Infitar",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/082.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/082.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 83,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Tatfif",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/083.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/083.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 84,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Insyiqaq",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/084.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/084.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 85,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Buruj",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/085.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/085.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 86,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Tariq",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/086.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/086.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 87,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-A'la",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/087.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/087.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 88,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Gasyiyah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/088.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/088.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 89,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Fajr",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/089.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/089.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 90,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Balad",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/090.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/090.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 91,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Asy-Syams",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/091.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/091.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 92,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Lail",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/092.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/092.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 93,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Ad-Duha",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/093.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/093.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 94,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Insyirah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/094.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/094.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 95,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Tin",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/095.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/095.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 96,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-'Alaq",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/096.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/096.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 97,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Qadr",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/097.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/097.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 98,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Bayyinah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/098.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/098.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 99,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Az-Zalzalah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/099.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/099.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 100,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-'Adiyat",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/100.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/100.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 101,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Qari'ah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/101.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/101.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 102,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "At-Takasur",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/102.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/102.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 103,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-'Asr",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/103.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/103.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 104,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Humazah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/104.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/104.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 105,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Fil",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/105.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/105.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 106,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Quraisy",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/106.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/106.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 107,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Ma'un",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/107.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/107.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 108,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Kausar",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/108.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/108.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 109,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Kafirun",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/109.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/109.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 110,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An-Nasr",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/110.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/110.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 111,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Lahab",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/111.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/111.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 112,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Ikhlas",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/112.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/112.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 113,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "Al-Falaq",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/113.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/113.mp3",
+        "lyrics": "bismillah"
     },
     {
         "id": 114,
         "name_category": "alquran 30 juz",
-        "title": "Abdul Azeez al-Ahmad full 30 Juz",
+        "title": "An-Nas",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/114.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/114.mp3",
+        "lyrics": "bismillah"
     }
 ]
 }
