@@ -40,14 +40,16 @@
         "name_category": "alquran 30 juz",
         "title": "Abdul Azeez al-Ahmad full 30 Juz",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/001.mp3"
+        "linkmp3": "https://ia800404.us.archive.org/21/items/abdulazeezalahmad/001.mp3",
+        "lyrics" : ""
     },
     {
         "id": 2,
         "name_category": "alquran 30 juz",
         "title": "Abdul Azeez al-Ahmad full 30 Juz",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/002.mp3"
+        "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/002.mp3",
+      "lyrics" : ""
     },
     {
         "id": 3,
@@ -55,6 +57,7 @@
         "title": "Abdul Azeez al-Ahmad full 30 Juz",
         "image": "file:///android_asset/image/icon.jpg",
         "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/003.mp3"
+      "lyrics" : ""
     },
     {
         "id": 4,
@@ -62,6 +65,7 @@
         "title": "Abdul Azeez al-Ahmad full 30 Juz",
         "image": "file:///android_asset/image/icon.jpg",
         "linkmp3": "https://ia600404.us.archive.org/21/items/abdulazeezalahmad/004.mp3"
+      "lyrics" : ""
     },
     {
         "id": 5,
