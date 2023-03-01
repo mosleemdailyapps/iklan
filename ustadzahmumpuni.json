@@ -1,0 +1,88 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Ustadzah Mumpuni",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
+    {
+        "id": 1,
+        "name_category": "Ustadzah Mumpuni",
+        "title": "Tausiyah Ustadzah Mumpuni",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800107.us.archive.org/31/items/ceramah_201803/5%20rekenig%20akhirat%20-%20ustadzah%20mumpuni.mp3"
+    },
+    {
+        "id": 2,
+        "name_category": "Ustadzah Mumpuni",
+        "title": "Tausiyah Ustadzah Mumpuni",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800107.us.archive.org/31/items/ceramah_201803/Ceramh%20bikin%20ngakak%20-%20ustadzah%20mumpuni.mp3"
+    },
+    {
+        "id": 3,
+        "name_category": "Ustadzah Mumpuni",
+        "title": "Tausiyah Ustadzah Mumpuni",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600107.us.archive.org/31/items/ceramah_201803/Ora%20ngapak%20ora%20penak%20-%20ustadzah%20mumpuni.mp3"
+    },
+    {
+        "id": 4,
+        "name_category": "Ustadzah Mumpuni",
+        "title": "Tausiyah Ustadzah Mumpuni",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600107.us.archive.org/31/items/ceramah_201803/Sholawat%20jaran%20goyang%20-%20ustadzah%20mumpuni.mp3"
+    },
+    {
+        "id": 5,
+        "name_category": "Ustadzah Mumpuni",
+        "title": "Tausiyah Ustadzah Mumpuni",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600107.us.archive.org/31/items/ceramah_201803/Tausiyah%20-%20ustadzah%20mumpuni.mp3"
+    },
+    {
+        "id": 6,
+        "name_category": "Ustadzah Mumpuni",
+        "title": "Tausiyah Ustadzah Mumpuni",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia600107.us.archive.org/31/items/ceramah_201803/lagu%20mlm%20jumat%20-%20ustadzah%20mumpuni.mp3"
+    },
+    {
+        "id": 7,
+        "name_category": "Ustadzah Mumpuni",
+        "title": "Tausiyah Ustadzah Mumpuni",
+        "image": "file:///android_asset/image/icon.jpg",
+        "linkmp3": "https://ia800107.us.archive.org/31/items/ceramah_201803/pengajian%20lucu%20-%20ustadzah%20mumpuni.mp3"
+    }
+]
+}
