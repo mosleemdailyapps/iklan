@@ -27,7 +27,14 @@
       "link_redirect": "https://"
     }
   ],
-  "Categories": [
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "ustadz syafiq riza basalamah",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
     {
         "id": 1,
         "namecategory": "ust hanan attaki",
