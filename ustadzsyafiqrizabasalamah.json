@@ -37,136 +37,155 @@
   "Data": [
     {
         "id": 1,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Ceramah Singkat Mengingat Kematian Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801003.us.archive.org/32/items/CeramahSingkatMengingatKematianUstadzSyafiqRizaBasalamah/Ceramah%20Singkat%20%20Mengingat%20Kematian%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3"
+        "link_mp3": "https://ia801003.us.archive.org/32/items/CeramahSingkatMengingatKematianUstadzSyafiqRizaBasalamah/Ceramah%20Singkat%20%20Mengingat%20Kematian%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 2,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Ustadz Syafiq Riza Basalamah Menangis Karena Permohonan Jamaah Kajian",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801004.us.archive.org/8/items/UstadzSyafiqRizaBasalamahMenangisKarenaPermohonanJamaahKajianIni/Ustadz%20Syafiq%20Riza%20Basalamah%20Menangis%20Karena%20Permohonan%20Jamaah%20Kajian%20Ini.mp3"
+        "link_mp3": "https://ia801004.us.archive.org/8/items/UstadzSyafiqRizaBasalamahMenangisKarenaPermohonanJamaahKajianIni/Ustadz%20Syafiq%20Riza%20Basalamah%20Menangis%20Karena%20Permohonan%20Jamaah%20Kajian%20Ini.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 3,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Safari Dakwah Jogja Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801004.us.archive.org/25/items/safaridakwahjogjaustadzsyafiqrizabasalamah2019/Radiomuslim-14410114-Ustadz_Syafiq_Riza_Basalamah-Nikmat_Di_Dunia_Bahagia_Di_Akhirat.mp3"
+        "link_mp3": "https://ia801004.us.archive.org/25/items/safaridakwahjogjaustadzsyafiqrizabasalamah2019/Radiomuslim-14410114-Ustadz_Syafiq_Riza_Basalamah-Nikmat_Di_Dunia_Bahagia_Di_Akhirat.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 4,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Safari Dakwah Jogja Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801004.us.archive.org/25/items/safaridakwahjogjaustadzsyafiqrizabasalamah2019/Radiomuslim-14410114-Ustadz_Syafiq_Riza_Basalamah-Peran_Aqidah_Dalam_Kehidupan.mp3"
+        "link_mp3": "https://ia801004.us.archive.org/25/items/safaridakwahjogjaustadzsyafiqrizabasalamah2019/Radiomuslim-14410114-Ustadz_Syafiq_Riza_Basalamah-Peran_Aqidah_Dalam_Kehidupan.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 5,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Safari Dakwah Jogja Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801004.us.archive.org/25/items/safaridakwahjogjaustadzsyafiqrizabasalamah2019/Radiomuslim-14410115-Ustadz_Syafiq_Riza_Basalamah-Fitnah_Harta.mp3"
+        "link_mp3": "https://ia801004.us.archive.org/25/items/safaridakwahjogjaustadzsyafiqrizabasalamah2019/Radiomuslim-14410115-Ustadz_Syafiq_Riza_Basalamah-Fitnah_Harta.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 6,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Ceramah Singkat Kunci Kebahagiaan Ustadz Dr. Syafiq Riza Basalamah MA",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia903106.us.archive.org/20/items/CeramahSingkatKunciKebahagiaanUstadzDr.SyafiqRizaBasalamahMA/Ceramah%20Singkat%20Kunci%20Kebahagiaan%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20MA.mp3"
+        "link_mp3": "https://ia903106.us.archive.org/20/items/CeramahSingkatKunciKebahagiaanUstadzDr.SyafiqRizaBasalamahMA/Ceramah%20Singkat%20Kunci%20Kebahagiaan%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20MA.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 7,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Mutiara Hikmah Hakikat Cinta Ustadz DR Syafiq Riza Basalamah MA",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia803107.us.archive.org/31/items/MutiaraHikmahHakikatCintaUstadzDRSyafiqRizaBasalamahMA/Mutiara%20Hikmah%20Hakikat%20Cinta%20-%20Ustadz%20DR%20Syafiq%20Riza%20Basalamah%20MA.mp3"
+        "link_mp3": "https://ia803107.us.archive.org/31/items/MutiaraHikmahHakikatCintaUstadzDRSyafiqRizaBasalamahMA/Mutiara%20Hikmah%20Hakikat%20Cinta%20-%20Ustadz%20DR%20Syafiq%20Riza%20Basalamah%20MA.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 8,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Ceramah Singkat Duduk Sendiri Ustadz Dr. Syafiq Riza Basalamah M. A",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801005.us.archive.org/31/items/CeramahSingkatDudukSendiriUstadzDr.SyafiqRizaBasalamahM.A/Ceramah%20Singkat%20Duduk%20Sendiri%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20M.A.mp3"
+        "link_mp3": "https://ia801005.us.archive.org/31/items/CeramahSingkatDudukSendiriUstadzDr.SyafiqRizaBasalamahM.A/Ceramah%20Singkat%20Duduk%20Sendiri%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20M.A.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 9,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Renungan Islami Wahai Saudaraku Maafkan Dirinya Ustadz Dr. Syafiq Riza Basalamah M. A",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801008.us.archive.org/19/items/RenunganIslamiWahaiSaudarakuMaafkanDirinyaUstadzDr.SyafiqRizaBasalamahM.A/Renungan%20Islami%20Wahai%20Saudaraku%20Maafkan%20Dirinya%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20M.A.mp3"
+        "link_mp3": "https://ia801008.us.archive.org/19/items/RenunganIslamiWahaiSaudarakuMaafkanDirinyaUstadzDr.SyafiqRizaBasalamahM.A/Renungan%20Islami%20Wahai%20Saudaraku%20Maafkan%20Dirinya%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20M.A.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 10,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Ceramah Singkat Apa Yang Anda Baca Ustadz Dr. Syafiq Riza Basalamah M. A",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia803105.us.archive.org/31/items/CeramahSingkatApaYangAndaBacaUstadzDr.SyafiqRizaBasalamahM.A/Ceramah%20Singkat%20Apa%20yang%20Anda%20Baca%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20M.A.mp3"
+        "link_mp3": "https://ia803105.us.archive.org/31/items/CeramahSingkatApaYangAndaBacaUstadzDr.SyafiqRizaBasalamahM.A/Ceramah%20Singkat%20Apa%20yang%20Anda%20Baca%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20M.A.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 11,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Kisah Lelaki Yang Diwajahnya Ada Usapan Malaikat Ustadz DR Syafiq Riza Basalamah MA",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801008.us.archive.org/24/items/KisahLelakiYangDiwajahnyaAdaUsapanMalaikatUstadzDRSyafiqRizaBasalamahMA/Kisah%20Lelaki%20Yang%20Diwajahnya%20Ada%20Usapan%20Malaikat%20-%20Ustadz%20DR%20Syafiq%20Riza%20Basalamah%20MA.mp3"
+        "link_mp3": "https://ia801008.us.archive.org/24/items/KisahLelakiYangDiwajahnyaAdaUsapanMalaikatUstadzDRSyafiqRizaBasalamahMA/Kisah%20Lelaki%20Yang%20Diwajahnya%20Ada%20Usapan%20Malaikat%20-%20Ustadz%20DR%20Syafiq%20Riza%20Basalamah%20MA.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 12,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Ceramah Singkat Siapa Manusia Yang Paling Allah Cinta Ustadz Dr. Syafiq Riza Basalamah M. A",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801007.us.archive.org/30/items/CeramahSingkatSiapaManusiaYangPalingAllahCintaUstadzDr.SyafiqRizaBasalamahM.A/Ceramah%20Singkat%20Siapa%20Manusia%20yang%20Paling%20Allah%20Cinta%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20M.A.mp3"
+        "link_mp3": "https://ia801007.us.archive.org/30/items/CeramahSingkatSiapaManusiaYangPalingAllahCintaUstadzDr.SyafiqRizaBasalamahM.A/Ceramah%20Singkat%20Siapa%20Manusia%20yang%20Paling%20Allah%20Cinta%20-%20Ustadz%20Dr.%20Syafiq%20Riza%20Basalamah%20M.A.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 13,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Ustadz Syafiq Riza Basalamah Merakit Bom Waktu",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600503.us.archive.org/35/items/UstadzSyafiqRizaBasalamahMerakitBomWaktu2015052432kb/Ustadz%20Syafiq%20Riza%20Basalamah%20-%20Merakit%20Bom%20Waktu%20-%2020150524%20-%2032kb.mp3"
+        "link_mp3": "https://ia600503.us.archive.org/35/items/UstadzSyafiqRizaBasalamahMerakitBomWaktu2015052432kb/Ustadz%20Syafiq%20Riza%20Basalamah%20-%20Merakit%20Bom%20Waktu%20-%2020150524%20-%2032kb.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 14,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Aku Tidak Bodoh Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600207.us.archive.org/11/items/Aku_Tidak_Bodoh_-_Ustadz_Syafiq_Riza_Basalamah/Aku%20Tidak%20Bodoh%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3"
+        "link_mp3": "https://ia600207.us.archive.org/11/items/Aku_Tidak_Bodoh_-_Ustadz_Syafiq_Riza_Basalamah/Aku%20Tidak%20Bodoh%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 15,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Di Hatiku Ada Cinta Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800506.us.archive.org/20/items/DiHatikuAdaCintaUstadzSyafiqRizaBasalamah/Di%20Hatiku%20Ada%20Cinta%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3"
+        "link_mp3": "https://ia800506.us.archive.org/20/items/DiHatikuAdaCintaUstadzSyafiqRizaBasalamah/Di%20Hatiku%20Ada%20Cinta%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 16,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Di Hatiku Ada Cinta Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600506.us.archive.org/20/items/DiHatikuAdaCintaUstadzSyafiqRizaBasalamah/Di%20Hatiku%20Ada%20Cinta%202%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3"
+        "link_mp3": "https://ia600506.us.archive.org/20/items/DiHatikuAdaCintaUstadzSyafiqRizaBasalamah/Di%20Hatiku%20Ada%20Cinta%202%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 17,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Di Hatiku Ada Cinta Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800506.us.archive.org/20/items/DiHatikuAdaCintaUstadzSyafiqRizaBasalamah/Puasa%20Siapa%20Yang%20Terbaik%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3"
+        "link_mp3": "https://ia800506.us.archive.org/20/items/DiHatikuAdaCintaUstadzSyafiqRizaBasalamah/Puasa%20Siapa%20Yang%20Terbaik%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 18,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Bincang Santai Seputar Hidup Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902805.us.archive.org/9/items/BincangSantaiSeputarHidupUstadzSyafiqRizaBasalamah/Bincang%20Santai%20Seputar%20Hidup%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3"
+        "link_mp3": "https://ia902805.us.archive.org/9/items/BincangSantaiSeputarHidupUstadzSyafiqRizaBasalamah/Bincang%20Santai%20Seputar%20Hidup%20-%20Ustadz%20Syafiq%20Riza%20Basalamah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 19,
-        "name_category": "ustadz syafiq riza basalamah",
+        "namecategory": "ustadz syafiq riza basalamah",
         "title": "Ini Toleransiku - Ustadz Syafiq Riza Basalamah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800803.us.archive.org/33/items/Eshaardhie.blogspot.comIniToleransikuUstadzSyafiqRizaBasalamah24Kbps/%5Beshaardhie.blogspot.com%5D%20Ini%20Toleransiku%20-%20Ustadz%20Syafiq%20Riza%20Basalamah%20%2824%20kbps%29.mp3"
+        "link_mp3": "https://ia800803.us.archive.org/33/items/Eshaardhie.blogspot.comIniToleransikuUstadzSyafiqRizaBasalamah24Kbps/%5Beshaardhie.blogspot.com%5D%20Ini%20Toleransiku%20-%20Ustadz%20Syafiq%20Riza%20Basalamah%20%2824%20kbps%29.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     }
 ]
 }
