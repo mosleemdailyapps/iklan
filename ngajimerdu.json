@@ -28,12 +28,13 @@
     }
   ],
   "Categories": [
-     {
+    
+ {
         "id": 1,
         "namecategory": "ngaji merdu",
         "title": "Al Mulk",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902509.us.archive.org/20/items/surah-al-an-am-jiharkah-muzammil-hasballah_202204/Muzammil%20Hasballah%20Surat%20Al%20Mulk.mp3",
+        "link_mp3": "https://ia902509.us.archive.org/20/items/surah-al-an-am-jiharkah-muzammil-hasballah_202204/Muzammil%20Hasballah%20Surat%20Al%20Mulk.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -41,7 +42,7 @@
         "namecategory": "ngaji merdu",
         "title": "Ar Rahman",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802509.us.archive.org/20/items/surah-al-an-am-jiharkah-muzammil-hasballah_202204/Muzammil%20Hasballah%20Terbaru%20Surat%20Ar%20Rahman.mp3",
+        "link_mp3": "https://ia802509.us.archive.org/20/items/surah-al-an-am-jiharkah-muzammil-hasballah_202204/Muzammil%20Hasballah%20Terbaru%20Surat%20Ar%20Rahman.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -49,7 +50,7 @@
         "namecategory": "ngaji merdu",
         "title": "Al Falaq",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlFalaq.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlFalaq.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -57,7 +58,7 @@
         "namecategory": "ngaji merdu",
         "title": "An Nas",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AnNas.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AnNas.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -65,7 +66,7 @@
         "namecategory": "ngaji merdu",
         "title": "Al Asr",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlAsr.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlAsr.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -73,7 +74,7 @@
         "namecategory": "ngaji merdu",
         "title": "Ash Insyirah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AshInsyirah.mp3",
+        "link_mp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AshInsyirah.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -81,7 +82,7 @@
         "namecategory": "ngaji merdu",
         "title": "Ash Shams",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AshShams.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AshShams.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -89,7 +90,7 @@
         "namecategory": "ngaji merdu",
         "title": "Ad Dhuha",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AdDhuha.mp3",
+        "link_mp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AdDhuha.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -97,7 +98,7 @@
         "namecategory": "ngaji merdu",
         "title": "Al Kafirun",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlKafirun.mp3",
+        "link_mp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlKafirun.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -105,7 +106,7 @@
         "namecategory": "ngaji merdu",
         "title": "Al Fajr",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlFajr.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlFajr.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -113,7 +114,7 @@
         "namecategory": "ngaji merdu",
         "title": "An Naba",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AnNaba.mp3",
+        "link_mp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AnNaba.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -121,7 +122,7 @@
         "namecategory": "ngaji merdu",
         "title": "Yaseen",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/Yaseen.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/Yaseen.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -129,7 +130,7 @@
         "namecategory": "ngaji merdu",
         "title": "Al Humazah",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlHumazah.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlHumazah.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -137,7 +138,7 @@
         "namecategory": "ngaji merdu",
         "title": "Al Kafirun",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlKafirun.mp3",
+        "link_mp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlKafirun.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -145,7 +146,7 @@
         "namecategory": "ngaji merdu",
         "title": "Al Lahab",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlLahab.mp3",
+        "link_mp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AlLahab.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -153,7 +154,7 @@
         "namecategory": "ngaji merdu",
         "title": "At Tin",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AtTin.mp3",
+        "link_mp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AtTin.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -161,7 +162,7 @@
         "namecategory": "ngaji merdu",
         "title": "At Takasur",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AtTakasur.mp3",
+        "link_mp3": "https://ia800800.us.archive.org/18/items/Muzammil_201706/AtTakasur.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -169,7 +170,7 @@
         "namecategory": "ngaji merdu",
         "title": "Quraysh",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/Quraysh.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/Quraysh.mp3",
         "lyrics": "bismillah"
     },
     {
@@ -177,9 +178,8 @@
         "namecategory": "ngaji merdu",
         "title": "Al Ala",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlAla.mp3",
+        "link_mp3": "https://ia600800.us.archive.org/18/items/Muzammil_201706/AlAla.mp3",
         "lyrics": "bismillah"
     }
-
 ]
 }
