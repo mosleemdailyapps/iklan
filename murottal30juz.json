@@ -34,363 +34,414 @@
       "image": "file:///android_asset/image/khalid.jpg"
     }
   ],
-  "Data": [
+  "Data":[
     {
         "id": 1,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/030-Ar-Ruum.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/030-Ar-Ruum.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 2,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/031-Luqman.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/031-Luqman.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 3,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/032-As-Sajdah.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/032-As-Sajdah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 4,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/033-Al-Ahzab.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/033-Al-Ahzab.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 5,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/034-Saba.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/034-Saba.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 6,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/035-Faathir.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/035-Faathir.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 7,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/036-Yaasiin.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/036-Yaasiin.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 8,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/037-Ash-Shooffaat.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/037-Ash-Shooffaat.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 9,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/040-Ghofir.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/040-Ghofir.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 10,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/041-Fushilat.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/041-Fushilat.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 11,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/042-asy-Syuuro.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/042-asy-Syuuro.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 12,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/043-az-zukhruf.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/043-az-zukhruf.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 13,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/044-ad-Dukhon.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/044-ad-Dukhon.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 14,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/045-al-Jaatsiyah.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/045-al-Jaatsiyah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 15,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/046-al-Ahqof.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/046-al-Ahqof.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 16,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/048-al-Fath.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/048-al-Fath.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 17,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/049-al-Hujurot.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/049-al-Hujurot.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 18,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/050-Qof.mp3"
+        "link_mp3": "https://ia804505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/050-Qof.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 19,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/051-adz-Dzariyat.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/051-adz-Dzariyat.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 20,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "Murottal 30 Juz al Ust. Abu Arqom Mushlih",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/052-ath-Thur.mp3"
+        "link_mp3": "https://ia904505.us.archive.org/2/items/Murottal30JuzAlUst.AbuArqomMushlih/052-ath-Thur.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 21,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-078-An-Naba.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-078-An-Naba.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 22,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-079-An-Naaziaat.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-079-An-Naaziaat.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 23,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-080-Abasa.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-080-Abasa.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 24,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-081-At-Takwiir.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-081-At-Takwiir.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 25,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-082-Al-Infithaar.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-082-Al-Infithaar.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 26,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-083-Al-Muthaffifiin.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-083-Al-Muthaffifiin.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 27,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-084-Al-Insyiqaaq.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-084-Al-Insyiqaaq.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 28,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-085-Al-Buruuj.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-085-Al-Buruuj.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 29,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-086-Ath-Thariq.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-086-Ath-Thariq.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 30,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-087-Al-Alaa.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-087-Al-Alaa.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 31,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-088-Al-Ghasyiyah.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-088-Al-Ghasyiyah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 32,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-089-Al-Fajr.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-089-Al-Fajr.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 33,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-090-Al-Balad.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-090-Al-Balad.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 34,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-091-Asy-Syams.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-091-Asy-Syams.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 35,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-092-Al-Lail.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-092-Al-Lail.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 36,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-093-Adh-Dhuha.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-093-Adh-Dhuha.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 37,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-094-As-Syarh.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-094-As-Syarh.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 38,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-095-At-Tiin.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-095-At-Tiin.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 39,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-096-Al-Alaq.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-096-Al-Alaq.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 40,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-097-Al-Qadr.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-097-Al-Qadr.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 41,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-098-Al-Bayyinah.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-098-Al-Bayyinah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 42,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-099-Az-Zalzalah.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-099-Az-Zalzalah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 43,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-100-Al-Adiyaat.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-100-Al-Adiyaat.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 44,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-101-Al-Qaariah.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-101-Al-Qaariah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 45,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-102-At-Takaatsur.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-102-At-Takaatsur.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 46,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-109-Al-Kaafiruun.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-109-Al-Kaafiruun.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 47,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-110-An-Nashr.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-110-An-Nashr.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 48,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-111-Al-Lahb.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-111-Al-Lahb.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 49,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-112-Al-Ikhlash.mp3"
+        "link_mp3": "https://ia802900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-112-Al-Ikhlash.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 50,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-113-Al-Falaq.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-113-Al-Falaq.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 51,
-        "name_category": "murottal juz 30",
+        "namecategory": "murottal juz 30",
         "title": "murottal anak juz 30 metode ummi",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-114-An-Naas.mp3"
+        "link_mp3": "https://ia902900.us.archive.org/30/items/murottal-anak-juz-30-metode-ummi/Metode-Ummi-114-An-Naas.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     }
 ]
 }
