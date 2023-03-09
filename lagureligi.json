@@ -37,423 +37,483 @@
   "Data": [
     {
         "id": 1,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "10 Lagu Religi Terbaik Bimbo",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia903400.us.archive.org/4/items/10-lagu-religi-terbaik-bimbo/10%20Lagu%20Religi%20Terbaik%20-%20Bimbo.mp3"
+        "link_mp3": "https://ia903400.us.archive.org/4/items/10-lagu-religi-terbaik-bimbo/10%20Lagu%20Religi%20Terbaik%20-%20Bimbo.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 2,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Nasida Ria Full Album Lagu Religi Islam Lawas Terbaik Tembang Kenangan Penyejuk Hati",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601802.us.archive.org/28/items/nasida-ria-full-album-lagu-religi-islam-lawas-terbaik-tembang-kenangan-penyejuk-hati/Nasida%20Ria%20Full%20Album%20-%20Lagu%20Religi%20Islam%20Lawas%20Terbaik%20-%20Tembang%20Kenangan%20Penyejuk%20Hati.mp3"
+        "link_mp3": "https://ia601802.us.archive.org/28/items/nasida-ria-full-album-lagu-religi-islam-lawas-terbaik-tembang-kenangan-penyejuk-hati/Nasida%20Ria%20Full%20Album%20-%20Lagu%20Religi%20Islam%20Lawas%20Terbaik%20-%20Tembang%20Kenangan%20Penyejuk%20Hati.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 3,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "KUMPULAN LAGU SAGITA RELIGI",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia803402.us.archive.org/17/items/kumpulan-lagu-sagita-religi-aseloley-192-kbps/KUMPULAN%20LAGU%20SAGITA%20RELIGI%20%28Aseloley%29%20%28192%20kbps%29.mp3"
+        "link_mp3": "https://ia803402.us.archive.org/17/items/kumpulan-lagu-sagita-religi-aseloley-192-kbps/KUMPULAN%20LAGU%20SAGITA%20RELIGI%20%28Aseloley%29%20%28192%20kbps%29.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 4,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "-DRA - Kidung Wahyu Kolosebo (ft. Silir Pujiwati)",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802909.us.archive.org/24/items/fsc029/Y-DRA%20-%20Kidung%20Wahyu%20Kolosobo%20%28feat.%20Silir%20Pujiwati%29.mp3"
+        "link_mp3": "https://ia802909.us.archive.org/24/items/fsc029/Y-DRA%20-%20Kidung%20Wahyu%20Kolosobo%20%28feat.%20Silir%20Pujiwati%29.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 5,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/01%20Opick%20Assalammualaikum.mp3"
+        "link_mp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/01%20Opick%20Assalammualaikum.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 6,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/02%20Opick%20Maha%20Penyayang.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/02%20Opick%20Maha%20Penyayang.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 7,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/03%20Opick%20Maha%20Melihat%20feat%20Amanda.mp3"
+        "link_mp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/03%20Opick%20Maha%20Melihat%20feat%20Amanda.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 8,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/04%20Opick%20Shollu%20Ala%20Muhammad%20feat%20Finalis%20FLO.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/04%20Opick%20Shollu%20Ala%20Muhammad%20feat%20Finalis%20FLO.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 9,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/05%20Opick%20Tombo%20Ati.mp3"
+        "link_mp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/05%20Opick%20Tombo%20Ati.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 10,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/06%20Opick%20Rapuh.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/06%20Opick%20Rapuh.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 11,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/07%20Opick%20Cahaya%20Hati.mp3"
+        "link_mp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/07%20Opick%20Cahaya%20Hati.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 12,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/07%20Opick%20Cahaya%20Hati.mp3"
+        "link_mp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/07%20Opick%20Cahaya%20Hati.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 13,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/08%20Opick%20Astaghfirullah.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/08%20Opick%20Astaghfirullah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 14,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/08%20Opick%20Astaghfirullah.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/08%20Opick%20Astaghfirullah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 15,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/09%20Opick%20Takdir%20feat%20Melly%20Goeslaw.mp3"
+        "link_mp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/09%20Opick%20Takdir%20feat%20Melly%20Goeslaw.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 16,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/10%20Opick%20Bila%20Waktu%20Tlah%20Berakhir.mp3"
+        "link_mp3": "https://ia800609.us.archive.org/6/items/LaguRELIGIOPICK_201706/10%20Opick%20Bila%20Waktu%20Tlah%20Berakhir.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 17,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/11%20Opick%20Haji.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/11%20Opick%20Haji.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 18,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/11%20Opick%20Haji.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/11%20Opick%20Haji.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 19,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/12%20Opick%20Keagungan%20Mu.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/12%20Opick%20Keagungan%20Mu.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 20,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/13%20Opick%20Rumput%20Bertasbih.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/13%20Opick%20Rumput%20Bertasbih.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 21,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu RELIGI OPICK",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/14%20Opick%20Alhamdullilah%20feat%20Amanda.mp3"
+        "link_mp3": "https://ia600609.us.archive.org/6/items/LaguRELIGIOPICK_201706/14%20Opick%20Alhamdullilah%20feat%20Amanda.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 22,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Sholawatunnabi.mp3"
+        "link_mp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Sholawatunnabi.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 23,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Sholawat%20Nariyah.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Sholawat%20Nariyah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 24,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Shalawat%20Cinta.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Shalawat%20Cinta.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 25,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Shalawat%20Badar.mp3"
+        "link_mp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Shalawat%20Badar.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 26,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Shalawat%20Badar.mp3"
+        "link_mp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Shalawat%20Badar.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 27,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Marhaban%20Ya%20Nurul%27ani.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Marhaban%20Ya%20Nurul%27ani.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 28,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Bidadari%20Surga.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Bidadari%20Surga.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 29,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Azab%20Illahi.mp3"
+        "link_mp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Azab%20Illahi.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 30,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ayah%20Bunda.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ayah%20Bunda.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 31,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Allah%20Maha.mp3"
+        "link_mp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Allah%20Maha.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 32,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Alangkah%20Indahnya%20Hidup%20Ini.mp3"
+        "link_mp3": "https://ia904704.us.archive.org/2/items/LaguReligiUje/Alangkah%20Indahnya%20Hidup%20Ini.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 33,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ya%20Robbibil%20Musthofa.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ya%20Robbibil%20Musthofa.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 34,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ya%20Rasulullah%20Ya%20Habiballah.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ya%20Rasulullah%20Ya%20Habiballah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 35,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ya%20Rasulallah.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ya%20Rasulallah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 36,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "Lagu Religi Uje",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ya%20Rabbana.mp3"
+        "link_mp3": "https://ia804704.us.archive.org/2/items/LaguReligiUje/Ya%20Rabbana.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 37,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Al%20Qubbatul%20Khodzroo.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Al%20Qubbatul%20Khodzroo.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 38,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601404.us.archive.org/14/items/LaguReligiIslamiSulis/Alfu%20Salam%20%C4%B0lahisi%20Orjinal.mp3"
+        "link_mp3": "https://ia601404.us.archive.org/14/items/LaguReligiIslamiSulis/Alfu%20Salam%20%C4%B0lahisi%20Orjinal.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 39,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Cinta%20Rosul.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Cinta%20Rosul.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 40,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601404.us.archive.org/14/items/LaguReligiIslamiSulis/Da%27uni.mp3"
+        "link_mp3": "https://ia601404.us.archive.org/14/items/LaguReligiIslamiSulis/Da%27uni.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 41,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Do%27aku.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Do%27aku.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 42,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Janjiku%20Yang%20Baru.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Janjiku%20Yang%20Baru.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 43,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Keagungan%20Tuhan.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Keagungan%20Tuhan.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 44,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Misteri%20Dua%20Dunia.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Misteri%20Dua%20Dunia.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 45,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Rindu%20Bertemu.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Rindu%20Bertemu.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 46,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Salamun%20Alaik.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Salamun%20Alaik.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 47,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601404.us.archive.org/14/items/LaguReligiIslamiSulis/Tobat.mp3"
+        "link_mp3": "https://ia601404.us.archive.org/14/items/LaguReligiIslamiSulis/Tobat.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 48,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Ya%20-%20Arhamar%20-%20Rohimien.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Ya%20-%20Arhamar%20-%20Rohimien.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 49,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Ya%20Nabi%20Salam.mp3"
+        "link_mp3": "https://ia801404.us.archive.org/14/items/LaguReligiIslamiSulis/Ya%20Nabi%20Salam.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 50,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "audioLagu Religi Islami Sulis",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601404.us.archive.org/14/items/LaguReligiIslamiSulis/Ya%20hannan.mp3"
+        "link_mp3": "https://ia601404.us.archive.org/14/items/LaguReligiIslamiSulis/Ya%20hannan.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 51,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Kata%20Cinta%20-%20All%20Artis.mp3"
+        "link_mp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Kata%20Cinta%20-%20All%20Artis.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 52,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Jilbab%20Putih%20-%20Vera%20Fernanda.mp3"
+        "link_mp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Jilbab%20Putih%20-%20Vera%20Fernanda.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 53,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Ya%20Rosulullah.mp3"
+        "link_mp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Ya%20Rosulullah.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 54,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Ya%20Robibil%20Mustofa%20-%20Dian%20Marshanda.mp3"
+        "link_mp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Ya%20Robibil%20Mustofa%20-%20Dian%20Marshanda.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 55,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Ya%20Rasulillah%20-%20Merinda.mp3"
+        "link_mp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Ya%20Rasulillah%20-%20Merinda.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 56,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Sholawat%20Keloas.mp3"
+        "link_mp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Sholawat%20Keloas.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 57,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Ya%20Nabi%20Salam%20-%20Vera%20fernanda.mp3"
+        "link_mp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Ya%20Nabi%20Salam%20-%20Vera%20fernanda.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 58,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Hari%20Jumat%20-%20Citra%20Marcelina.mp3"
+        "link_mp3": "https://ia601903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Hari%20Jumat%20-%20Citra%20Marcelina.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 59,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Habibi%20-%20Yulia%20Rahman.mp3"
+        "link_mp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Habibi%20-%20Yulia%20Rahman.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 60,
-        "name_category": "lagu religi",
+        "namecategory": "lagu religi",
         "title": "LAGU RELIGI DAN QASIDAH",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Habibi%20-%20Yulia%20Rahman.mp3"
+        "link_mp3": "https://ia801903.us.archive.org/17/items/LAGURELIGIDANQASIDAH_201612/Habibi%20-%20Yulia%20Rahman.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     }
 ]
 }
