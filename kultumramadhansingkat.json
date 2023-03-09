@@ -41,7 +41,8 @@
         "title": "Hakikat Persahabatan Dalam Islam",
         "image": "file:///android_asset/image/icon.jpg",
         "linkmp3": "https://ia802207.us.archive.org/28/items/HakikatPersahabatanDalamIslam/hakikat%20persahabatan%20dalam%20islam.mp3"
-    },
+	"lyrics": "Bismillah"     
+},
     {
         "id": 2,
         "name_category": "kultum ramadhan singkat",
@@ -160,7 +161,8 @@
         "title": "Ust. Abu Adam Burhanudin H& Dukuh IVNgrame Pak Doto Fungsi Al Qur,an",
         "image": "file:///android_asset/image/icon.jpg",
         "linkmp3": "https://ia800602.us.archive.org/2/items/Ust.AbuAdamBurhanudinHDukuhIVNgramePakDotoFungsiAlQuran170610/Ust.dr.DesinPambudiSAbuAkmal_Hak%20Tetangga%20%28BhsJawa%29_170611.MP3"
-    },
+    
+},
     {
         "id": 19,
         "name_category": "kultum ramadhan singkat",
