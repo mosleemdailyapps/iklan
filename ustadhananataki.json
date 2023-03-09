@@ -29,200 +29,220 @@
   ],
   "Categories": [
     {
-      "id": 1,
-      "name_category": "ust hanan attaki",
-      "image": "file:///android_asset/image/khalid.jpg"
-    }
-  ],
-  "Data": [
-    {
         "id": 1,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "Dimana Allah ” Ust. Tengku Hanan Attaki, Lc.",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801204.us.archive.org/3/items/DimanaAllahUst.TengkuHananAttakiLc.YouTube/1.%20Terimakasihku%20Ustad%20Hanan%20Attaki.mp3"
+        "link_mp3": "https://ia801204.us.archive.org/3/items/DimanaAllahUst.TengkuHananAttakiLc.YouTube/1.%20Terimakasihku%20Ustad%20Hanan%20Attaki.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 2,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "Dimana Allah ” Ust. Tengku Hanan Attaki, Lc.",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia601204.us.archive.org/3/items/DimanaAllahUst.TengkuHananAttakiLc.YouTube/%E2%80%9CDimana%20Allah-%E2%80%9D%20-%20Ust.%20Tengku%20Hanan%20Attaki%2C%20Lc.%20-%20YouTube.mp3"
+        "link_mp3": "https://ia601204.us.archive.org/3/items/DimanaAllahUst.TengkuHananAttakiLc.YouTube/%E2%80%9CDimana%20Allah-%E2%80%9D%20-%20Ust.%20Tengku%20Hanan%20Attaki%2C%20Lc.%20-%20YouTube.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 3,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "Dimana Allah ” Ust. Tengku Hanan Attaki, Lc.",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia801204.us.archive.org/3/items/DimanaAllahUst.TengkuHananAttakiLc.YouTube/%E2%80%9CTawakal%20100%25%E2%80%9D%20-%20Ust.%20Tengku%20Hanan%20Attaki%2C%20Lc.%20-%20YouTube.mp3"
+        "link_mp3": "https://ia801204.us.archive.org/3/items/DimanaAllahUst.TengkuHananAttakiLc.YouTube/%E2%80%9CTawakal%20100%25%E2%80%9D%20-%20Ust.%20Tengku%20Hanan%20Attaki%2C%20Lc.%20-%20YouTube.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 4,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "Allah Punya Ganti Yang Lebih Baik Untukmu Ustad Hanan Attaki",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia802802.us.archive.org/25/items/AllahPunyaGantiYangLebihBaikUntukmuUstadHananAttakiTerbaru/Allah%20Punya%20Ganti%20Yang%20Lebih%20Baik%20Untukmu%20-%20Ustad%20Hanan%20Attaki%20Terbaru.mp3"
+        "link_mp3": "https://ia802802.us.archive.org/25/items/AllahPunyaGantiYangLebihBaikUntukmuUstadHananAttakiTerbaru/Allah%20Punya%20Ganti%20Yang%20Lebih%20Baik%20Untukmu%20-%20Ustad%20Hanan%20Attaki%20Terbaru.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 5,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/4%20Sifat%20Orang%20Istimewa%20di%20Hadapan%20Allah%20-%20Ceramah%20Ust%20%20Hanan%20Attaki%20Lc%20Full%20HD.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/4%20Sifat%20Orang%20Istimewa%20di%20Hadapan%20Allah%20-%20Ceramah%20Ust%20%20Hanan%20Attaki%20Lc%20Full%20HD.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 6,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/4%20Sifat%20Orang%20Istimewa%20di%20Hadapan%20Allah%20-%20Ceramah%20Ust%20%20Hanan%20Attaki%20Lc%20Full%20HD.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/4%20Sifat%20Orang%20Istimewa%20di%20Hadapan%20Allah%20-%20Ceramah%20Ust%20%20Hanan%20Attaki%20Lc%20Full%20HD.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 7,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/4%20Sifat%20Penyelamat%20Dari%20Api%20Neraka%2C%20Ustadz%20Hanan%20Attaki.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/4%20Sifat%20Penyelamat%20Dari%20Api%20Neraka%2C%20Ustadz%20Hanan%20Attaki.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 8,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Ampuni%20Kami%20Ya%20Allah%20%5B%20Muhasabah%20%5D%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Ampuni%20Kami%20Ya%20Allah%20%5B%20Muhasabah%20%5D%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 9,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Ampuni%20Kami%20Ya%20Allah%20%5B%20Muhasabah%20%5D%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Ampuni%20Kami%20Ya%20Allah%20%5B%20Muhasabah%20%5D%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 10,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Anda%20Termasuk%20Orang%20Istimewa%20Bila%20Memiliki%204%20Sifat%20ini%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Anda%20Termasuk%20Orang%20Istimewa%20Bila%20Memiliki%204%20Sifat%20ini%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 11,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Apakah%20Kita%20Merasa%20Kurang%20Beruntung%20-%20Ust%20Hanan%20Attaki%20Lc%20Full%20HD.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Apakah%20Kita%20Merasa%20Kurang%20Beruntung%20-%20Ust%20Hanan%20Attaki%20Lc%20Full%20HD.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 12,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/BERSABARLAH%20JODOHMU%20PASTI%20AKAN%20DATANG%20-%20USTADZ%20HANAN%20ATTAKI.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/BERSABARLAH%20JODOHMU%20PASTI%20AKAN%20DATANG%20-%20USTADZ%20HANAN%20ATTAKI.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 13,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Banyaklah%20Menangis%20Kurangilah%20Tertawa%20-%20Ustadz%20Hanan%20Attaki%2C%20Lc.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Banyaklah%20Menangis%20Kurangilah%20Tertawa%20-%20Ustadz%20Hanan%20Attaki%2C%20Lc.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 14,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Belajar%20Yakin%20Sama%20Allah%20-%20Ust.Hanan%20Attaki%2C%20Lc.mp3"
+        "link_mp3": "https://ia800104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Belajar%20Yakin%20Sama%20Allah%20-%20Ust.Hanan%20Attaki%2C%20Lc.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 15,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Cara%20Allah%20Bercanda%20Dengan%20HambaNya%20-%20Ustadz%20Hanan%20Attaki.mp3"
+        "link_mp3": "https://ia800104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Cara%20Allah%20Bercanda%20Dengan%20HambaNya%20-%20Ustadz%20Hanan%20Attaki.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 16,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Carilah%20istri%20yang%20tidak%20GEJE%20PARNO%20-%20Ustadz%20Hanan%20Attaki.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Carilah%20istri%20yang%20tidak%20GEJE%20PARNO%20-%20Ustadz%20Hanan%20Attaki.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 17,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Ustadz%20Hanan%20Attaki%20-%20Baper%20Itu%20Ketika.mp3"
+        "link_mp3": "https://ia800104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Ustadz%20Hanan%20Attaki%20-%20Baper%20Itu%20Ketika.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 18,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Ustadz%20Hanan%20Attaki%20-%20Jangan%20Kasih%20Kendor%20%28Re-Issue%29.mp3"
+        "link_mp3": "https://ia800104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Ustadz%20Hanan%20Attaki%20-%20Jangan%20Kasih%20Kendor%20%28Re-Issue%29.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 19,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "SUBHANALLAH Kajianya... Menyusuri Jalan Ikhtiar Oleh Ust. Hanan Attaki , Lc",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Sifat%20Malu%20Pada%20Diri%20Perempuan%20Adalah%20Mahkota%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3"
+        "link_mp3": "https://ia600104.us.archive.org/35/items/SUBHANALLAHKajianya...MenyusuriJalanIkhtiarOlehUst.HananAttakiLcFANCAM/Sifat%20Malu%20Pada%20Diri%20Perempuan%20Adalah%20Mahkota%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 20,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "Back Stage Khadijah UST. TENGKU HANAN ATTAKI LC",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia803107.us.archive.org/16/items/15.BackStageKhadijahUST.TENGKUHANANATTAKILC/10.Bersyukur-Ust.TengkuHananAttakiLc.mp3"
+        "link_mp3": "https://ia803107.us.archive.org/16/items/15.BackStageKhadijahUST.TENGKUHANANATTAKILC/10.Bersyukur-Ust.TengkuHananAttakiLc.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 21,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "Back Stage Khadijah UST. TENGKU HANAN ATTAKI LC",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia903107.us.archive.org/16/items/15.BackStageKhadijahUST.TENGKUHANANATTAKILC/13.%20Menjadi%20Manusia%20Yang%20Bermanfaat%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3"
+        "link_mp3": "https://ia903107.us.archive.org/16/items/15.BackStageKhadijahUST.TENGKUHANANATTAKILC/13.%20Menjadi%20Manusia%20Yang%20Bermanfaat%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 22,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "Back Stage Khadijah UST. TENGKU HANAN ATTAKI LC",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia803107.us.archive.org/16/items/15.BackStageKhadijahUST.TENGKUHANANATTAKILC/14.%20terimakasihkuuntukmu%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3"
+        "link_mp3": "https://ia803107.us.archive.org/16/items/15.BackStageKhadijahUST.TENGKUHANANATTAKILC/14.%20terimakasihkuuntukmu%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 23,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "KEEP THE FAITH UST. TENGKU HANAN ATTAKI LC",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/1.%20YAKIN%20DIA%20JODOH%20KAMU%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3"
+        "link_mp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/1.%20YAKIN%20DIA%20JODOH%20KAMU%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 24,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "KEEP THE FAITH UST. TENGKU HANAN ATTAKI LC",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/2.%20SANG%20PEMILIK%20HATI%20-%20%20UST%20TENGKU%20HANAN%20ATTAKI%20LC.mp3"
+        "link_mp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/2.%20SANG%20PEMILIK%20HATI%20-%20%20UST%20TENGKU%20HANAN%20ATTAKI%20LC.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 25,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "KEEP THE FAITH UST. TENGKU HANAN ATTAKI LC",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/3.%20NGEBATIN%20KEPADA%20ALLAH%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3"
+        "link_mp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/3.%20NGEBATIN%20KEPADA%20ALLAH%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 26,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "KEEP THE FAITH UST. TENGKU HANAN ATTAKI LC",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/4.%20KENAPA%20DOA%20SAYA%20TIDAK%20DI%20IJABAH%20ALLAH%20-%20UST.%20TENGKU%20HANAN%20ATTAKI.mp3"
+        "link_mp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/4.%20KENAPA%20DOA%20SAYA%20TIDAK%20DI%20IJABAH%20ALLAH%20-%20UST.%20TENGKU%20HANAN%20ATTAKI.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     },
     {
         "id": 27,
-        "name_category": "ust hanan attaki",
+        "namecategory": "ust hanan attaki",
         "title": "KEEP THE FAITH UST. TENGKU HANAN ATTAKI LC",
         "image": "file:///android_asset/image/icon.jpg",
-        "linkmp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/5.%20KEEP%20THE%20FAITH%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3"
+        "link_mp3": "https://ia800102.us.archive.org/14/items/5.KEEPTHEFAITHUST.TENGKUHANANATTAKILC/5.%20KEEP%20THE%20FAITH%20-%20UST.%20TENGKU%20HANAN%20ATTAKI%20LC.mp3",
+        "lyrics": "bismillahirrahmanirrahim"
     }
 ]
 }
