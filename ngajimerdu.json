@@ -27,7 +27,14 @@
       "link_redirect": "https://"
     }
   ],
-  "Categories": [
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "ceramah adi hidayat",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
     
  {
         "id": 1,
